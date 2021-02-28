@@ -1,5 +1,5 @@
 
-![TitleImage](/doc/00_DDMI_Perspective_I.jpg)
+![TitleImage](/doc/00_DDMI_Perspective_I.JPG)
 
 # Digital Design Methods II
 

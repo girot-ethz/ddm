@@ -27,8 +27,8 @@ This course covers the essential digital tools for contemporary landscape archit
 
 ##### Quicklinks
 
-- [Rhino Grasshopper](08_Grasshopper.md)
-
+- [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
+- [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
 ‎
 
 ![TitleImage](/doc/00_DDMI_Perspective_II.jpg)

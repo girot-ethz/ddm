@@ -69,8 +69,8 @@ The first semester introduces methods for site mapping like terrestrial laser sc
 - [Cloudcompare Basics](03_Cloudcompare_Tutorial.md)
 - [ReCAP Pointcloud](04_ReCAP_Tutorial.md)
 - [Photogrammetry](05_Photogrammetry.md)
-- [MultiCam Tutorial](TEST09_MultiCam_Tutorial.md)
-- [RhinoCam Tutorial](TEST10_RhinoCam_Tutorial.md)
+- [MultiCam Tutorial](09_MultiCam_Tutorial.md)
+- [RhinoCam Tutorial](10_RhinoCam_Tutorial.md)
 
 ---
 

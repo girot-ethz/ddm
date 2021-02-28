@@ -1,5 +1,5 @@
 
-![TitleImage](/doc/00_DDMI_Perspective_III.jpg)
+![TitleImage](/doc/00_DDMI_Perspective_I.jpg)
 
 # Digital Design Methods II
 
@@ -72,7 +72,7 @@ This course covers the essential digital tools for contemporary landscape archit
 
 ---
 
-![TitleImageII](/doc/00_DDMI_Perspective_I.jpg)
+![TitleImageII](/doc/00_DDMI_Perspective_III.jpg)
 
 > Authors
 > * [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich

@@ -7,7 +7,7 @@
 
 This course covers the essential digital tools for contemporary landscape architects. Contents include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs. 
 
-The second semester focuses on the integration of Sensing and GIS tools into a 3D modelling workflow.
+The second semester focuses on the integration of Sensing and GIS tools into a topographical three-dimensional modelling workflow.
 
 ##### Timetable
 

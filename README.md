@@ -31,6 +31,8 @@ This course covers the essential digital tools for contemporary landscape archit
 
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 
 # Digital Design Methods I
 

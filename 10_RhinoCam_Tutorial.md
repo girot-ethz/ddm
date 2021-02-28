@@ -4,7 +4,7 @@
 ---
 
 ## Content
-*Just jump to the topic you are looking for*
+*Jump to the topic you are looking for*
 
 
 

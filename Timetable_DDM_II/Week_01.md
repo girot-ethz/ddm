@@ -12,7 +12,7 @@ Location: Zoom [Link](https://ethz.zoom.us/j/91346097820)
 
 12:10-12:30, Satellite Remote Sensing + GNSS
 
-Break
+12:30-12:45, Break
 
 12:45-13:00, Swiss Grid or Schweizer Landeskoordinaten
 

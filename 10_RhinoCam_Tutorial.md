@@ -12,7 +12,7 @@
 - [Setup](#setup)
 - [Tools](#tools)
 - [Machining Operations](#machining-operations)
-- [Regions & Curves](#regions-&-curves)
+- [Regions & Curves](#regions-and-curves)
 - [Post Processing](#post-processing)
 
 ---
@@ -148,7 +148,7 @@ d) don‘t forget to set your tools in the tool tab
 
 ---
 
-## Regions & Curves
+## Regions and Curves
 
 ![RhinoCam_Regions_1](/doc/RhinoCam_Regions_1.png)
 

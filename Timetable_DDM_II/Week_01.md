@@ -1,25 +1,23 @@
 # Week 01
 
-21.09.20 - Kickoff Session
-Location: LVML (HIL H 40.8)
+01.03.21 - Airborne and Satellite Remote Sensing
+Location: Zoom [Link](https://ethz.zoom.us/j/91346097820)
 
 ## Schedule
-12:45-13:00, Introduction by Professor Christophe Girot
+11:45-11:50, Kickoff 
 
-13:00-13:20, Lecture "Field Work & Lab Coats" by Ilmar Hurkxkens
+11:50-12:00, History of Remote Sensing
 
-13:20-13:40, Lecture "Pointclouds?" by Benedikt Kowalewski
+12:00-12:10, Airborne Remote Sensing + Orthophotography
 
-13:40-14:00, Semester Site Introduction and Course Information
+12:10-12:30, Satellite Remote Sensing + GNSS
 
-14:00-14:30, Tour of the ETH Labs
+12:45-13:00, Swiss Grid or Schweizer Landeskoordinaten
 
-## Assignment for week 2
-Please read the following extracts:
+13:00-13:30, From GNSS to Rhino
 
-Jillian Walliss and Heike Rahmann, [Landscape Architecture and Digital Technologies](https://girot-ethz.github.io/ddm-I/text/Text_WallissRahmann_Landscape_Architecture_and_Digital_Technologies_2016.pdf)
+## Assignment up until Easter:
+Please select one of the following extracts - one per student:
 
-Antoine Picon, [Substance and Structure II: The Digital Culture of Landscape Architecture](http://www.harvarddesignmagazine.org/issues/36/substance-and-structure-ii-the-digital-culture-of-landscape-architecture)
+TestText, [TestLink](https://girot-ethz.github.io/ddm-I/text/Text_Testpdf.pdf)
 
-## Links
-- [History of the Site](00_History_of_the_Site.md)

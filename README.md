@@ -29,7 +29,8 @@ This course covers the essential digital tools for contemporary landscape archit
 
 - [Rhino Grasshopper](08_Grasshopper.md)
 
-<p></p>
+<p>
+</p>
 
 
 # Digital Design Methods I

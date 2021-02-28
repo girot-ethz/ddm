@@ -27,17 +27,8 @@ This course covers the essential digital tools for contemporary landscape archit
 
 ##### Quicklinks
 
-- [Digital Design Methods I - Home](https://girot-ethz.github.io/ddm-I/)
-- [How to Connect to the Server](06_Serveracesstutorial.md)
-- [History of the Site](00_History_of_the_Site.md)
-- [Rhino Basics](01_Rhino_Tutorial.md)
-- [Rhino Basic Commands](02_Rhino_Basic_Commands.md)
-- [Cloudcompare Basics](03_Cloudcompare_Tutorial.md)
-- [ReCAP Pointcloud](04_ReCAP_Tutorial.md)
-- [Photogrammetry](05_Photogrammetry.md)
 - [Rhino Grasshopper](08_Grasshopper.md)
-- [MultiCam Tutorial](TEST09_MultiCam_Tutorial.md)
-- [RhinoCam Tutorial](TEST10_RhinoCam_Tutorial.md)
+
 
 
 # Digital Design Methods I
@@ -66,7 +57,7 @@ This course covers the essential digital tools for contemporary landscape archit
 
 ##### Quicklinks
 
-- [Digital Design Methods I - Home](https://girot-ethz.github.io/ddm-I/)
+- [Digital Design Methods - Home](https://girot-ethz.github.io/ddm/)
 - [How to Connect to the Server](06_Serveracesstutorial.md)
 - [History of the Site](00_History_of_the_Site.md)
 - [Rhino Basics](01_Rhino_Tutorial.md)
@@ -74,7 +65,6 @@ This course covers the essential digital tools for contemporary landscape archit
 - [Cloudcompare Basics](03_Cloudcompare_Tutorial.md)
 - [ReCAP Pointcloud](04_ReCAP_Tutorial.md)
 - [Photogrammetry](05_Photogrammetry.md)
-- [Rhino Grasshopper](08_Grasshopper.md)
 - [MultiCam Tutorial](TEST09_MultiCam_Tutorial.md)
 - [RhinoCam Tutorial](TEST10_RhinoCam_Tutorial.md)
 

@@ -62,7 +62,6 @@ The first semester introduces methods for site mapping like terrestrial laser sc
 
 ##### Quicklinks
 
-- [Digital Design Methods - Home](https://girot-ethz.github.io/ddm/)
 - [How to Connect to the Server](06_Serveracesstutorial.md)
 - [History of the Site](00_History_of_the_Site.md)
 - [Rhino Basics](01_Rhino_Tutorial.md)
@@ -82,5 +81,3 @@ The first semester introduces methods for site mapping like terrestrial laser sc
 >* [Ilmar Hurkxkens](https://girot.arch.ethz.ch/?team=ilmar-hurkxkens) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
 > * Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
 > * Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz
-
-> * image credits: Luuk Borremans & Laura Rickli

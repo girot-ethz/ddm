@@ -10,18 +10,18 @@ This course covers the essential digital tools for contemporary landscape archit
 
 ##### Timetable
 
-- [**Week 01** (21.09.20) - Kickoff Session](Timetable/Week_01.md)
-- **Week 02** (28.09.20) - Terrestrial Laser Scanning
-- [**Week 03** (05.10.20) - Autodesk Recap and CloudCompare](Timetable/Week_03.md)
-- [**Week 04** (12.10.20) - Droning and Photogrammety](Timetable/Week_04.md)
-- **Week 05** (19.10.20) - Seminarweek
-- **Week 06** (26.10.20) - CloudCompare
-- [**Week 07** (02.11.20) - Rhinoceros](Timetable/Week_07.md)
-- [**Week 08** (09.11.20) - Rhinoceros - Advanced Modelling](Timetable/Week_08.md)
-- [**Week 09** (16.11.20) - Rhinoceros - Grasshopper](Timetable/Week_09.md)
-- [**Week 10** (23.11.20) - Rhinoceros 3D Modelling - Rhino Cam](Timetable/Week_10.md)
-- **Week 11** (30.11.20) - Milling
-- **Week 12** (07.12.20) - Presentation of Final Results
+- [**Week 01** (01.03.21) - Airborne and Satellite Remote Sensing](Timetable/Week_01.md)
+- **Week 02** (08.03.21) - Pointcloud Technology in Practice
+- **Week 03** (15.03.21) - What is GIS? A Brief Introduction to Geographic Information Systems
+- **Week 04** (22.03.21) - Seminarweek (no class)
+- **Week 05** (29.03.21) - Data Analysis and Transformations in QGIS 
+- **Week 06** (05.04.21) - Easter Holidays (no class)
+- **Week 07** (12.04.21) - Interopability of QGIS & Rhinoceros & Docofossor I
+- **Week 08** (19.04.21) - Sechseläuten (no class)
+- **Week 09** (26.04.21) - Docofossor II & Rhinoceros
+- **Week 10** (03.05.21) - Advanced Modelling in Rhinoceros & Introduction to 3D Printing
+- **Week 11** (10.05.21) - 3D Printing
+- **Week 12** (17.05.21) - Presentation of Final Results
 
 ---
 

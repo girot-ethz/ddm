@@ -31,7 +31,7 @@ Please select one of the following extracts - one per student:
 [TEXT](http://www.harvarddesignmagazine.org/issues/36/substance-and-structure-ii-the-digital-culture-of-landscape-architecture)
 
 - Cantrell, Bradley, and Adam Mekies. “Coding Landscape.” In *Codify: Parametric and Computational Design in Landscape Architecture*, edited by Bradley Cantrell and Adam Mekies, 1st ed. New York, NY : Routledge, 2018.: Routledge, 2018.
-[TEXT](https://github.com/girot-ethz/ddm/text/Coding_Landscape_Cantrell_Mekies_2018_Codify.pdf)
+[TEXT](https://girot-ethz.github.io/ddm/text/Coding_Landscape_Cantrell_Mekies_2018_Codify.pdf)
 
 
 

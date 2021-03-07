@@ -36,4 +36,7 @@ Please select one of the following extracts - one per student:
 - Girot, Christophe. “The Elegance of Topology.” In *Topology - Topical Thoughts on the Contemporary Landscape*, edited by Christophe Girot, Anette Freytag, Albert Kirchengast, and Dunja Richter, Vol. 3, 2013.
 [TEXT](https://girot-ethz.github.io/ddm/text/Girot_2013_The_Elegance_of_Topology.pdf)
 
+Hurkxkens, Ilmar, and Mathias Bernhard. “Computational Terrain Modeling with Distance Functions for Large Scale Landscape Design.” In *Journal of Digital Landscape Architecture*. Berlin: Wichmann Verlag, 2019.
+[TEXT](https://girot-ethz.github.io/ddm/text/Hurkxkens_Bernhard_2019_Computational_Terrain_Modeling_with_Distance_Functions_for_Large_Scale.pdf)
+
 

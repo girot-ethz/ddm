@@ -37,6 +37,6 @@ Please select one of the following extracts - one per student:
 [TEXT](https://girot-ethz.github.io/ddm/text/Girot_2013_The_Elegance_of_Topology.pdf)
 
 - Hurkxkens, Ilmar, and Mathias Bernhard. “Computational Terrain Modeling with Distance Functions for Large Scale Landscape Design.” In *Journal of Digital Landscape Architecture*. Berlin: Wichmann Verlag, 2019.
-[TEXT](https://girot-ethz.github.io/ddm/text/Hurkxkens_Bernhard_2019_Computational_Terrain_Modeling_with_Distance_Functions_for_Large_Scale.pdf)
+[TEXT](https://girot-ethz.github.io/ddm/text/Hurkxkens_Bernhard_2019_Computational_Terrain_Modeling.pdf)
 
 

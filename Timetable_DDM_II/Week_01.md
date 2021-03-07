@@ -27,7 +27,7 @@ Please select one of the following extracts - one per student:
 - Walliss, Jillian, and Heike Rahmann. Landscape Architecture and Digital Technologies: *Re-Conceptualising Design and Making*. Abingdon, Oxon; New York: Routledge, 2016.
 [TEXT, Pages 103 - 154](https://girot-ethz.github.io/ddm/text/Simulating_Systems_Walliss_Rahmann_2016_Landscape_architecture_and_digital_technologies.pdf)
 
-- Picon, Antoine. Digital Culture in Architecture: An Introduction for the Design Professions. Basel: Birkhäuser, 2010.
+- Picon, Antoine. “Substance and Structure II : The Digital Culture of Landscape Architecture.” In *Harvard Design Magazine*, 2013.
 [TEXT](http://www.harvarddesignmagazine.org/issues/36/substance-and-structure-ii-the-digital-culture-of-landscape-architecture)
 
 - Cantrell, Bradley, and Adam Mekies. “Coding Landscape.” In *Codify: Parametric and Computational Design in Landscape Architecture*, edited by Bradley Cantrell and Adam Mekies, 1st ed. New York, NY : Routledge, 2018.: Routledge, 2018.

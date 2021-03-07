@@ -30,5 +30,8 @@ Please select one of the following extracts - one per student:
 - Picon, Antoine. Digital Culture in Architecture: An Introduction for the Design Professions. Basel: Birkhäuser, 2010.
 [TEXT](http://www.harvarddesignmagazine.org/issues/36/substance-and-structure-ii-the-digital-culture-of-landscape-architecture)
 
+- Cantrell, Bradley, and Adam Mekies. “Coding Landscape.” In *Codify: Parametric and Computational Design in Landscape Architecture*, edited by Bradley Cantrell and Adam Mekies, 1st ed. New York, NY : Routledge, 2018.: Routledge, 2018.
+[TEXT](https://girot-ethz.github.io/ddm/text/Coding_Landscape_Cantrell_Mekies_2018_Codify.pdf)
+
 
 

@@ -33,7 +33,7 @@ Please select one of the following extracts - one per student:
 - Cantrell, Bradley, and Adam Mekies. “Coding Landscape.” In *Codify: Parametric and Computational Design in Landscape Architecture*, edited by Bradley Cantrell and Adam Mekies, 1st ed. New York, NY : Routledge, 2018.: Routledge, 2018.
 [TEXT](https://girot-ethz.github.io/ddm/text/Coding_Landscape_Cantrell_Mekies_2018_Codify.pdf)
 
-Girot, Christophe. “The Elegance of Topology.” Edited by Christophe Girot, Anette Freytag, Albert Kirchengast, and Dunja Richter. Topology - Topical Thoughts on the Contemporary Landscape, Landscript, 3 (2013).
+Girot, Christophe. “The Elegance of Topology.” In *Topology - Topical Thoughts on the Contemporary Landscape*, edited by Christophe Girot, Anette Freytag, Albert Kirchengast, and Dunja Richter, Vol. 3, 2013.
 [TEXT](https://girot-ethz.github.io/ddm/text/Girot_2013_The_Elegance_of_Topology.pdf)
 
 

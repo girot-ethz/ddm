@@ -39,4 +39,6 @@ Please select one of the following extracts - one per student:
 - Hurkxkens, Ilmar, and Mathias Bernhard. “Computational Terrain Modeling with Distance Functions for Large Scale Landscape Design.” In *Journal of Digital Landscape Architecture*. Berlin: Wichmann Verlag, 2019.
 [TEXT](https://girot-ethz.github.io/ddm/text/Hurkxkens_Bernhard_2019_Computational_Terrain_Modeling.pdf)
 
+- Fricker, Pia, Christophe Girot, Alexandre Kapellos, and James Melsom. 2012. “Landscape Architecture Design Simulation Using CNC Tools as Hands-On Tools.” In *Proceedings of the DLA*, edited by Erich Buhmann, Stephen Ervin, and Matthias Pietsch.
+[TEXT](https://girot-ethz.github.io/ddm/text/Fricker_et_al_2012_Landscape_Architecture_Design_Simulation_Using_CNC_Tools_as_Hands-On_Tools.pdf)
 

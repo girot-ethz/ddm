@@ -15,6 +15,6 @@ Location: Zoom [Link](https://ethz.zoom.us/j/91346097820)
 
 
 ## Training Material:
-If you are interested in diving into QGIS yourself, you find training material on the student server under the following path:
+If you are interested in diving into QGIS yourself, you find training material on the student server following this path:
 
 arch_lus_mscla_student\FS_21\Digital-Design-Methods-II\01_Input\QGIS Training

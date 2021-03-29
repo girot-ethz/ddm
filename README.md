@@ -15,7 +15,7 @@ The second semester focuses on the integration of Sensing and GIS tools into a t
 - **Week 02** (08.03.21) - Pointcloud Technology in Practice
 - [**Week 03** (15.03.21) - What is GIS? A Brief Introduction to Geographic Information Systems](Timetable_DDM_II/Week_03.md)
 - **Week 04** (22.03.21) - Seminarweek (no class)
-- **Week 05** (29.03.21) - Data Analysis and Transformations in QGIS 
+- [**Week 05** (29.03.21) - Data Analysis and Transformations in QGIS](Timetable_DDM_II/Week05.md)
 - **Week 06** (05.04.21) - Easter Holidays (no class)
 - **Week 07** (12.04.21) - Interopability of QGIS & Rhinoceros & Docofossor I
 - **Week 08** (19.04.21) - Sechseläuten (no class)

@@ -40,11 +40,11 @@ To combine the different tiles go to Raster > Miscellaneous > Merge
 
 Select the raster sets you would like to combine by clicking on the three dots in the top right corner (see image below). 
 
-![QGIS_LoadDOM_DTM_II](/doc/QGIS_CombineIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_II](/doc/QGIS_CombineIIDOM_DTM_I.jpg)
 
 In this case you can select all of them. Press "Run" after selecting the raster sets.
 
-![QGIS_LoadDOM_DTM_III](/doc/QGIS_CombineIIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_III](/doc/QGIS_CombineIIIDOM_DTM_I.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ To limit the raster layer to the area we are interested in select the merged ras
 
 ![QGIS_LayerClipping](/doc/QGIS_ClippingLayer.jpg)
 
-After disabling the merged layer the clipped extend might look somewhat like this:
+After disabling the merged layer the clipped extend might look somewhat like this:  
 (Please make sure to chose a rather small extend - the bigger the extend the more computational power is needed in the next steps)
 
 ![QGIS_LayerClippingII](/doc/QGIS_ClippingLayerII.jpg)

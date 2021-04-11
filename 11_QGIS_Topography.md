@@ -120,6 +120,8 @@ Click "OK" to start the export.
 
 ---
 
+## Final Adjustments
 
+If you open the exported file in a text editor it will look somewhat like the screenshor below. To make this code readable for the Docofossor plugin we need to delete the first line (marked in the screenshot) and save the file again. If your file is too heavy to open in a text editor it is likely to be too heavy for any of the next steps. Crop the raster extend a bit more and try again.
 
-
+![QGIS_AdjustmentCode](/doc/QGIS_AdjustmentCode.jpg)

@@ -19,7 +19,7 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 
 ## Importing DTM / DSM to QGIS  
 
-Download a set of GeoTIFFs from a website of you choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
+Download a set of GeoTIFFs from a website of your choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
 Since larger datasets are usually divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several tiles. In this case your download will include four .tif files.
 
 
@@ -39,15 +39,25 @@ To combine the different tiles go to Raster > Miscellaneous > Merge
 
 Select the raster sets you would like to combine by clicking on the three dots in the top right corner (see image below). 
 
-![QGIS_LoadDOM_DTM](/doc/QGIS_CombineIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_II](/doc/QGIS_CombineIIDOM_DTM.jpg)
 
 In this case you can select all of them. Press "Run" after selecting the raster sets.
 
-![QGIS_LoadDOM_DTM](/doc/QGIS_CombineIIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_III](/doc/QGIS_CombineIIIDOM_DTM.jpg)
 
 ---
 
+After merging you might notice that the values of the new file are not the sameas in the original raster files (compare the maximum and minimum raster values). This inconvenience can be solved by adjusting the layer properties. Select the merged raster layer, rightl-click on it and navigate to "Layer Properties".
 
+![QGIS_LayerProperties](/doc/QGIS_LayerProperties.jpg)
+
+Whithin the properties window navigate to "Symbology" and expand the "Min / Max Value Settings" tab (see image below).
+
+![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesII.jpg)
+
+Within the Min / Max Value Settings change the accuracy from "Estimate (faster)" to "Actual (slower)". Click apply and close the properties window. Now the values should the same as your input layers.
+
+![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesIII.jpg)
 
 ## Setup
 

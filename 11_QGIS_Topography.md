@@ -1,6 +1,6 @@
-![QGIS_Title](/doc/QGIS_ResultTopography.jpg)
+![QGIS_Title](/doc/QGIS_ResultTopography_I.jpg)
 
-# QGIS From DTM / DSM to Topography
+# QGIS From DTM / DSM to 3D Topography
 
 This tutorial will illustrate the process of importing and transforming Digital Terrain Models (DTM) or Digital Surface Models (DSM) into a .xyz or .csv file for further manipulation.
 DTMs and DSMs are commonly provided by municipalities as base data for planning tasks. However they usually come in the format GeoTIFF, a geo-located picture format, that is incompatible with most CAD programs. To transform the file into a usable three-dimensional topography model, several transformation steps have to be undertaken in QGIS. These steps will be illustrated in the following. 
@@ -10,7 +10,7 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 ## Content
 *Jump to the topic you are looking for*
 
-- [Importing DTM / DSM to QGIS](#Importing-DTM-/-DSM-to-QGIS)
+- [Importing DTM / DSM to QGIS](#Importing-DTM-or-DSM-to-QGIS)
 - [Merging Raster Layers](#Merging-Raster-Layers)
 - [Correcting the Raster Values](#Correcting-the-Raster-Values)
 - [Clipping the Raster Layer](#Clipping-the-Raster-Layer)
@@ -20,7 +20,7 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 
 ---
 
-## Importing DTM / DSM to QGIS  
+## Importing DTM or DSM to QGIS  
 
 Download a set of GeoTIFFs from a website of your choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
 Since larger datasets are usually divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several tiles. In this case your download will include four .tif files.

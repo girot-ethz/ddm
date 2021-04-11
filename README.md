@@ -17,7 +17,7 @@ The second semester focuses on the integration of Sensing and GIS tools into a t
 - **Week 04** (22.03.21) - Seminarweek (no class)
 - [**Week 05** (29.03.21) - Data Analysis and Transformations in QGIS](Timetable_DDM_II/Week_05.md)
 - **Week 06** (05.04.21) - Easter Holidays (no class)
-- **Week 07** (12.04.21) - Interoperability of QGIS & Rhinoceros & Docofossor I
+- [**Week 07** (12.04.21) - Interoperability of QGIS & Rhinoceros & Docofossor I](Timetable_DDM_II/Week_07.md)
 - **Week 08** (19.04.21) - Sechseläuten (no class)
 - **Week 09** (26.04.21) - Docofossor II & Rhinoceros
 - **Week 10** (03.05.21) - Advanced Modelling in Rhinoceros & Introduction to 3D Printing
@@ -30,8 +30,9 @@ The second semester focuses on the integration of Sensing and GIS tools into a t
 
 - [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
-- [QGIS Tutorials and Tips](http://www.qgistutorials.com)
-‎
+- [QGIS - Tutorials and Tips](http://www.qgistutorials.com)
+- [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
+
 
 ![TitleImage](/doc/00_DDMI_Perspective_II.jpg)
 

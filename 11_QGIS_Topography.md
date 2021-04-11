@@ -51,7 +51,7 @@ After merging you might notice that the values of the new file are not the samea
 
 ![QGIS_LayerProperties](/doc/QGIS_LayerProperties.jpg)
 
-Whithin the properties window navigate to "Symbology" and expand the "Min / Max Value Settings" tab (see image below).
+Whithin the properties window navigate to "Symbology" and expand the "Min / Max Value Settings" tab by clicking on it (see image below).
 
 ![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesII.jpg)
 

@@ -19,7 +19,8 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 
 ## Importing DTM /DSM to QGIS  
 
->Download a set of GeoTIFFs from a website of you choice. This tutorial will focus on the Klopstockwiese in Zurich. Since the larger datasets by the municipality are divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several of those tiles.  
+>Download a set of GeoTIFFs from a website of you choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
+>Since the larger datasets by the municipality are divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several of those tiles. In this case your download will contain four different .tif files.  
 
 ![QGIS_ZH_GIS](/doc/QGIS_ZH_GIS.jpg)
 

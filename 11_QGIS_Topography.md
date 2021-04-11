@@ -19,20 +19,35 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 
 ## Importing DTM / DSM to QGIS  
 
->Download a set of GeoTIFFs from a website of you choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
->Since larger datasets are usually divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several tiles. In this case your download will include four .tif files.
->
+Download a set of GeoTIFFs from a website of you choice. This tutorial will focus on the Klopstockwiese in Zurich. ([Zurich GIS](https://maps.zh.ch/))
+Since larger datasets are usually divided into smaller tiles the download of the selected area as shown in the picture below will likely contain several tiles. In this case your download will include four .tif files.
+
 
 ![QGIS_ZH_GIS](/doc/QGIS_ZH_GIS.jpg)
 
 ---
 
->After downloading the different tiles they have to be unpacked and afterwards combined into one consistent raster file. For this step we are only interested in the .tif file from the download folder. Drag and drop those files into your QGIS workspace to load them.  
->
+After downloading the different tiles they have to be unpacked and afterwards combined into one consistent raster file. For this step we are only interested in the .tif file from the download folder. Drag and drop those files into your QGIS workspace to load them. They are currently not connected and have their own colour range indication the height of that raster point. The breaks between the different sets are clearly visible.
 
 ![QGIS_LoadDOM_DTM](/doc/QGIS_LoadDOM_DTM.jpg)
 
 ---
+
+To combine the different tiles go to Raster > Miscellaneous > Merge
+
+![QGIS_LoadDOM_DTM](/doc/QGIS_CombineDOM_DTM.jpg)
+
+Select the raster sets you would like to combine by clicking on the three dots in the top right corner (see image below). 
+
+![QGIS_LoadDOM_DTM](/doc/QGIS_CombineIIDOM_DTM.jpg)
+
+In this case you can select all of them. Press "Run" after selecting the raster sets.
+
+![QGIS_LoadDOM_DTM](/doc/QGIS_CombineIIIDOM_DTM.jpg)
+
+---
+
+
 
 ## Setup
 

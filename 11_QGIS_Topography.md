@@ -50,7 +50,7 @@ In this case you can select all of them. Press "Run" after selecting the raster 
 
 ## Correcting the raster values
 
-After merging you might notice that the values of the new file are not the sameas in the original raster files (compare the maximum and minimum raster values). This inconvenience can be solved by adjusting the layer properties. Select the merged raster layer, rightl-click on it and navigate to "Layer Properties".
+After merging you might notice that the values of the new file are not the same as in the original files (compare the maximum and minimum raster values). This inconvenience can be solved by adjusting the layer properties. Select the merged raster layer, right-click on it and navigate to "Layer Properties".
 
 ![QGIS_LayerProperties](/doc/QGIS_LayerProperties.jpg)
 
@@ -66,7 +66,7 @@ Within the Min / Max Value Settings change the accuracy from "Estimate (faster)"
 
 ## Clipping the Raster Layer
 
-To limit the rater layer to the area we are interested in select the merged raster layer and go to Raster > Extraction > Clip Raster by Extend. Make sure the merged raster layer is selected at the top. For the field "Lcuping Extend" choose "Draw on Canvas". Alternatively you could also use a preset rectangular shapefile as a clipping boundary. Click "Run" and close the window. 
+To limit the raster layer to the area we are interested in select the merged raster layer and go to Raster > Extraction > Clip Raster by Extend. Make sure the merged raster layer is selected at the top. For the field "Lcuping Extend" choose "Draw on Canvas". Alternatively you could also use a preset rectangular shapefile as a clipping boundary. Click "Run" and close the window. 
 
 
 ![QGIS_LayerClipping](/doc/QGIS_ClippingLayer.jpg)

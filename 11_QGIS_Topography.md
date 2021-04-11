@@ -71,7 +71,7 @@ To limit the raster layer to the area we are interested in select the merged ras
 
 ![QGIS_LayerClipping](/doc/QGIS_ClippingLayer.jpg)
 
-After disabling the merged layer the clipped extend might look somewhat like this:
+After disabling the merged layer the clipped extend might look somewhat like this:  
 (Please make sure to chose a rather small extend - the bigger the extend the more computational power is needed in the next steps)
 
 ![QGIS_LayerClippingII](/doc/QGIS_ClippingLayerII.jpg)

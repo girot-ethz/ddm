@@ -40,11 +40,11 @@ To combine the different tiles go to Raster > Miscellaneous > Merge
 
 Select the raster sets you would like to combine by clicking on the three dots in the top right corner (see image below). 
 
-![QGIS_LoadDOM_DTM_II](/doc/QGIS_CombineIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_II](/doc/QGIS_CombineIIDOM_DTM_I.jpg)
 
 In this case you can select all of them. Press "Run" after selecting the raster sets.
 
-![QGIS_LoadDOM_DTM_III](/doc/QGIS_CombineIIIDOM_DTM.jpg)
+![QGIS_LoadDOM_DTM_III](/doc/QGIS_CombineIIIDOM_DTM_I.jpg)
 
 ---
 

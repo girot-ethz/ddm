@@ -8,12 +8,13 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 ## Content
 *Jump to the topic you are looking for*
 
-- [RhinoCam Workflow](#rhinoCam-workflow)
-- [Setup](#setup)
-- [Tools](#tools)
-- [Machining Operations](#machining-operations)
-- [Regions & Curves](#regions-and-curves)
-- [Post Processing](#post-processing)
+- [Importing DTM / DSM to QGIS](#Importing-DTM-/-DSM-to-QGIS)
+- [Merging Raster Layers](#Merging-Raster-Layers)
+- [Correcting the Raster Values](#Correcting-the-Raster-Values)
+- [Clipping the Raster Layer](#Clipping-the-Raster-Layer)
+- [From Raster to Point](#From-Raster-to-Point)
+- [Exporting Points as CSV](#Exporting-Points-as-CSV)
+- [Final Adjustments](#Final-Adjustments)
 
 ---
 
@@ -48,7 +49,7 @@ In this case you can select all of them. Press "Run" after selecting the raster 
 
 ---
 
-## Correcting the raster values
+## Correcting the Raster Values
 
 After merging you might notice that the values of the new file are not the same as in the original files (compare the maximum and minimum raster values). This inconvenience can be solved by adjusting the layer properties. Select the merged raster layer, right-click on it and navigate to "Layer Properties".
 
@@ -78,7 +79,7 @@ After disabling the merged layer the clipped extend might look somewhat like thi
 
 ---
 
-## Raster to Point
+## From Raster to Point
 
 To turn our raster data into a point set which we can import and open in Rhinoceros 3D we have to use the Processing Toolbox. To open the toolbox panel go to Processing > Toolbox. The toolbox offers a wide range of geoprocessing tools and has a surprisingly good search function.
 
@@ -96,7 +97,7 @@ Select the "Clipped (extent)" layer and press okay. (If you have renamed the lay
 
 ![QGIS_RasterToPoint](/doc/QGIS_RasterToPointII.jpg)
 
-For the "type" field choose "(0) nodes" and press "Run. The following calculation might take a while. The result of this calcualtion should ba a layer called "Shapes" containing points.  
+For the "type" field choose "(0) nodes" and press "Run. The following calculation might take a while. The result of this calcualtion should be a layer called "Shapes", containing points.  
 
 Right-click on the layer "Shapes" and select "Attribute Table" to have a look at the data each point contains. The table should look as following:
 

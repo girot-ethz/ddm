@@ -1,6 +1,6 @@
 # Week 07
 
-12.04.21 - Interoperability of QGIS & Rhinoceros & Docofossor I
+12.04.21 - Interoperability of QGIS & Rhinoceros & Docofossor I  
 Location: Zoom [Link](https://ethz.zoom.us/j/6441009741)
 
 ## Schedule

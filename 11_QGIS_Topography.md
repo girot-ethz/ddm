@@ -1,6 +1,6 @@
 ![QGIS_Title](/doc/QGIS_ResultTopography.jpg)
 
-# QGIS From DTM / DSM to Topography
+# QGIS From DTM / DSM to 3D Topography
 
 This tutorial will illustrate the process of importing and transforming Digital Terrain Models (DTM) or Digital Surface Models (DSM) into a .xyz or .csv file for further manipulation.
 DTMs and DSMs are commonly provided by municipalities as base data for planning tasks. However they usually come in the format GeoTIFF, a geo-located picture format, that is incompatible with most CAD programs. To transform the file into a usable three-dimensional topography model, several transformation steps have to be undertaken in QGIS. These steps will be illustrated in the following. 

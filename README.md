@@ -30,8 +30,9 @@ The second semester focuses on the integration of Sensing and GIS tools into a t
 
 - [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
-- [QGIS Tutorials and Tips](http://www.qgistutorials.com)
-‎
+- [QGIS - Tutorials and Tips](http://www.qgistutorials.com)
+- [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
+
 
 ![TitleImage](/doc/00_DDMI_Perspective_II.jpg)
 

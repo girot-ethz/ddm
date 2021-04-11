@@ -25,6 +25,8 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 
 ![QGIS_ZH_GIS](/doc/QGIS_ZH_GIS.jpg)
 
+---
+
 >After downloading the different tiles they have to be unpacked and afterwards combined into one consistent raster file. For this step we are only interested in the .tif file from the download folder. Drag and drop those files into your QGIS workspace to load them.  
 >
 

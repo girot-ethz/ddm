@@ -1,3 +1,5 @@
+![QGIS_Title](/doc/QGIS_ResultTopography.jpg)
+
 # QGIS From DTM / DSM to Topography
 
 This tutorial will illustrate the process of importing and transforming Digital Terrain Models (DTM) or Digital Surface Models (DSM) into a .xyz or .csv file for further manipulation.

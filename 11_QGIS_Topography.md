@@ -32,6 +32,7 @@ After downloading the different tiles they have to be unpacked and afterwards co
 ![QGIS_LoadDOM_DTM](/doc/QGIS_LoadDOM_DTM.jpg)
 
 ---
+## Merging Raster Layers  
 
 To combine the different tiles go to Raster > Miscellaneous > Merge
 
@@ -47,6 +48,8 @@ In this case you can select all of them. Press "Run" after selecting the raster 
 
 ---
 
+## Correcting the raster values
+
 After merging you might notice that the values of the new file are not the sameas in the original raster files (compare the maximum and minimum raster values). This inconvenience can be solved by adjusting the layer properties. Select the merged raster layer, rightl-click on it and navigate to "Layer Properties".
 
 ![QGIS_LayerProperties](/doc/QGIS_LayerProperties.jpg)
@@ -58,6 +61,33 @@ Whithin the properties window navigate to "Symbology" and expand the "Min / Max 
 Within the Min / Max Value Settings change the accuracy from "Estimate (faster)" to "Actual (slower)". Click apply and close the properties window. Now the values should the same as your input layers.
 
 ![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesIII.jpg)
+
+---
+
+## Clipping the Raster Layer
+
+To limit the rater layer to the area we are interested in select the merged raster layer and go to Raster > Extraction > Clip Raster by Extend. Make sure the merged raster layer is selected at the top. For the field "Lcuping Extend" choose "Draw on Canvas". Alternatively you could also use a preset rectangular shapefile as a clipping boundary. Click "Run" and close the window. 
+
+
+![QGIS_LayerClipping](/doc/QGIS_ClippingLayer.jpg)
+
+After disabling the merged layer the clipped extend might look somewhat like this:
+
+![QGIS_LayerClippingII](/doc/QGIS_ClippingLayerII.jpg)
+
+---
+
+## Raster to Point
+
+To turn our raster data into a point set which we can import and open in Rhinoceros 3D we have to use the Processing Toolbox. To open the toolbox panel go to Processing > Toolbox. The toolbox offers a wide range of geoprocessing tools and has a surprisingly good search function.
+
+![QGIS_Toolbox](/doc/QGIS_Toolbox.jpg)
+
+The tool we need is called "Raster values to points"
+
+![QGIS_Toolbox](/doc/QGIS_ToolboxII.jpg)
+
+
 
 ## Setup
 

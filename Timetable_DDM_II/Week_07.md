@@ -17,4 +17,4 @@ Location: Zoom [Link](https://ethz.zoom.us/j/6441009741)
   
 Quicklink:  
 
-[QGIS - DTM to 3D Topography](/11_QGIS_Topography.md)
+[QGIS - DTM to 3D Topography](https://girot-ethz.github.io/ddm/11_QGIS_Topography.html)

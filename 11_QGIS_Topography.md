@@ -54,11 +54,11 @@ After merging you might notice that the values of the new file are not the same 
 
 ![QGIS_LayerProperties](/doc/QGIS_LayerProperties.jpg)
 
-Whithin the properties window navigate to "Symbology" and expand the "Min / Max Value Settings" tab by clicking on it (see image below).
+Within the properties window navigate to "Symbology" and expand the "Min / Max Value Settings" tab by clicking on it (see image below).
 
 ![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesII.jpg)
 
-Within the Min / Max Value Settings change the accuracy from "Estimate (faster)" to "Actual (slower)". Click apply and close the properties window. Now the values should the same as your input layers.
+Within the Min / Max Value Settings change the accuracy from "Estimate (faster)" to "Actual (slower)". Click apply and close the properties window. Now the values should the same as your input layers. This is a purely cosmetic adjustment. The true values are still saved in the raster - QGIS just estimates them for display purposes.
 
 ![QGIS_LayerProperties_II](/doc/QGIS_LayerPropertiesIII.jpg)
 
@@ -72,6 +72,7 @@ To limit the raster layer to the area we are interested in select the merged ras
 ![QGIS_LayerClipping](/doc/QGIS_ClippingLayer.jpg)
 
 After disabling the merged layer the clipped extend might look somewhat like this:
+(Please make sure to chose a rather small extend - the bigger the extend the more computational power is needed in the next steps)
 
 ![QGIS_LayerClippingII](/doc/QGIS_ClippingLayerII.jpg)
 
@@ -87,11 +88,38 @@ The tool we need is called "Raster values to points"
 
 ![QGIS_Toolbox](/doc/QGIS_ToolboxII.jpg)
 
+Within the tool click on the three dots in the to right to select the desired raster layer for the transformation.
+
+![QGIS_RasterToPoint](/doc/QGIS_RasterToPoint.jpg)
+
+Select the "Clipped (extent)" layer and press okay. (If you have renamed the layer your layer setup might look a bit different)
+
+![QGIS_RasterToPoint](/doc/QGIS_RasterToPointII.jpg)
+
+For the "type" field choose "(0) nodes" and press "Run. The following calculation might take a while. The result of this calcualtion should ba a layer called "Shapes" containing points.  
+
+Right-click on the layer "Shapes" and select "Attribute Table" to have a look at the data each point contains. The table should look as following:
+
+![QGIS_RasterToPoint](/doc/QGIS_RasterToPointIII.jpg)
+
+---
+
+## Exporting Points as CSV
+
+Now we are ready for exporting.  
+
+Navigate to the "Shapes" layer, right-click and select "Export" > "Save Features As". Within the exporting panel perform the following actions:
+
+>1. Select CSV (Comma Separated Values) as a file format.
+>2. Select a place to save the file and give it a name
+>3. Untick the box "ID".
+
+Click "OK" to start the export.
+
+![QGIS_RasterToPoint](/doc/QGIS_RasterToPointIIII.jpg)
+
+---
 
 
-## Setup
 
-![RhinoCam_Setup_1](/doc/RhinoCam_Setup_1.png)
 
->##### Setup Document:
->1. Verify Units: go to Options > Units: make sure the document-units are set to millimeters When you create a new document: select Small Objects - Millimeters

@@ -1,4 +1,4 @@
-![QGIS_Title](/doc/QGIS_ResultTopographyI.jpg)
+![QGIS_Title](/doc/QGIS_ResultTopography_I.jpg)
 
 # QGIS From DTM / DSM to 3D Topography
 

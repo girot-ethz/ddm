@@ -10,13 +10,13 @@ DTMs and DSMs are commonly provided by municipalities as base data for planning 
 ## Content
 *Jump to the topic you are looking for*
 
-- [Importing DTM / DSM to QGIS](#Importing-DTM-or-DSM-to-QGIS)
-- [Merging Raster Layers](#Merging-Raster-Layers)
-- [Correcting the Raster Values](#Correcting-the-Raster-Values)
-- [Clipping the Raster Layer](#Clipping-the-Raster-Layer)
-- [From Raster to Point](#From-Raster-to-Point)
-- [Exporting Points as CSV](#Exporting-Points-as-CSV)
-- [Final Adjustments](#Final-Adjustments)
+- [Importing DTM / DSM to QGIS](#importing-dtm-or-dsm-to-qgis)
+- [Merging Raster Layers](#merging-raster-layers)
+- [Correcting the Raster Values](#correcting-the-raster-values)
+- [Clipping the Raster Layer](#clipping-the-raster-layer)
+- [From Raster to Point](#from-raster-to-point)
+- [Exporting Points as CSV](#exporting-points-as-csv)
+- [Final Adjustments](#final-adjustments)
 
 ---
 

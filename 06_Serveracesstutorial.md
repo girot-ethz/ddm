@@ -3,7 +3,7 @@
 - [mac user](#macOS-X-users)
 - [windows user](#windows-users)
 
-The address to the LUS MSCLA Student Server is:  **\\\nas22.ethz.ch\arch_lus_mscla_student** 
+The address to the LUS MSCLA Student Server is:  **\\\nas22.ethz.ch\arch_lus_mscla_student**  
 The address to the Girot Student Server is:  **\\\nas22.ethz.ch\arch_nsl_girot_student**
 
 The ISG D-Arch host a variety of servers:

@@ -3,9 +3,10 @@
 - [mac user](#macOS-X-users)
 - [windows user](#windows-users)
 
-The address to the LUS MSCLA Server is:  **\\\nas22.ethz.ch\arch_lus_mscla_student**
+The address to the LUS MSCLA Student Server is:  **\\\nas22.ethz.ch\arch_lus_mscla_student** 
+The address to the Girot Student Server is:  **\\\nas22.ethz.ch\arch_nsl_girot_student**
 
-The ISG D-Arch offerst different shares on their server:
+The ISG D-Arch host a variety of servers:
 
 - personal share staff members and students D-ARCH    (home.arch.ethz.ch)
 - group share staff members and students D-ARCH    (nas22.ethz.ch)
@@ -70,8 +71,8 @@ If you already have a VPN connection or you are inside the ETH-network you can o
 ### 3.
 ![Serveracess_08_adress](/doc/Serveracess_08_adress.png)
 
-> type in the following adress into the top bar: **\\\nas22.ethz.ch\arch_nsl_girot_student**
-or if it doesent work: **\\\nas22.ethz.ch\** (to see all shares)
+> type in the following adress into the top bar: **\\\nas22.ethz.ch\arch_nsl_girot_student** or **\\\nas22.ethz.ch\arch_lus_mscla_student** 
+or if it doesent work: **\\\nas22.ethz.ch\** (to see all server addresses and navigate to your desired address)
 
 ### 4.
 

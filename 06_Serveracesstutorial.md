@@ -71,8 +71,8 @@ If you already have a VPN connection or you are inside the ETH-network you can o
 ### 3.
 ![Serveracess_08_adress](/doc/Serveracess_08_adress.png)
 
-> type in the following adress into the top bar: **\\\nas22.ethz.ch\arch_nsl_girot_student** or **\\\nas22.ethz.ch\arch_lus_mscla_student** 
-or if it doesent work: **\\\nas22.ethz.ch\** (to see all server addresses and navigate to your desired address)
+> type in the following adress into the top bar: **\\\nas22.ethz.ch\arch_nsl_girot_student** or **\\\nas22.ethz.ch\arch_lus_mscla_student**  
+or if it does not work: **\\\nas22.ethz.ch\ (to see all server addresses and navigate to your desired address)
 
 ### 4.
 

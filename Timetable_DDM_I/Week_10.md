@@ -1,13 +1,12 @@
 # Week 10
 
-23.11.20 - 3D Modelling & Milling Input
-
-Location: [Zoom](https://ethz.zoom.us/j/99779874520)
+29.11.21 - 3D Modelling & Milling Input
+Location: LVML (HIL H 40.8)
 
 Milling Booklet: [Rhino Cam](https://girot-ethz.github.io/ddm-I/text/201123_RhinoCam.pdf)
 
 ## Schedule
-12:45-13:30, 3D Modelling Support by Ilmar Hurkxkens & Benedikt Kowalewski
+12:45-13:30, 3D Modelling Support by Benedikt Kowalewski
 
 13:30-13:45, Break
 
@@ -16,7 +15,7 @@ Milling Booklet: [Rhino Cam](https://girot-ethz.github.io/ddm-I/text/201123_Rhin
 14:15-14:30 Input Rhino Cam
 
 ## Assignment for week 11
-Finalize the 3D path model until 26.11.2020. 
+Finalize the 3D path model until 03.12.2021. 
 
 
 

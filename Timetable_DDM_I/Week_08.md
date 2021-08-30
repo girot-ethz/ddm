@@ -1,11 +1,10 @@
 # Week 08
 
-09.11.20 - Rhinoceros3D - Advanced Modeling
-
-Location: [Zoom](https://ethz.zoom.us/j/94811227148)
+15.11.21 - Rhinoceros3D - Advanced Modeling
+Location: LVML (HIL H 40.8)
 
 ## Schedule
-12:45-13:30, Advanced 3D Modelling in Rhinoceros3D by Benedikt Kowalewski
+12:45-13:30, Advanced 3D Modelling in Rhinoceros3D by Zhao Ma & Benedikt Kowalewski
 
 13:30-13:45, Break
 

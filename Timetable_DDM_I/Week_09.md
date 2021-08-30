@@ -1,13 +1,12 @@
 # Week 09
 
-16.11.20 - Rhinoceros3D - Grasshopper
-
-Location: [Zoom](https://ethz.zoom.us/j/94860973377)
+22.11.21 - Rhinoceros3D - Grasshopper
+Location: LVML (HIL H 40.8)
 
 Tutorial: [Rhino Grasshopper](https://girot-ethz.github.io/ddm-I/08_Grasshopper.html)
 
 ## Schedule
-12:45-13:30, Grasshopper Basics by Ilmar Hurkxkens
+12:45-13:30, Grasshopper Basics by Zhao Ma
 
 13:30-13:45, Break
 

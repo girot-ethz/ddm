@@ -1,8 +1,7 @@
 # Week 07
 
-02.11.20 - Rhinoceros3D - Basic Modeling
-
-Location: [Zoom](https://ethz.zoom.us/j/93957377913)
+08.11.21 - Rhinoceros3D - Basic Modeling
+Location: LVML (HIL H 40.8)
 
 ## Schedule
 12:45-13:30, Introduction to Rhinocerso3D by Benedikt Kowalewski

@@ -1,18 +1,18 @@
 # Week 01
 
-27.09.21 - Kickoff Session
+21.09.20 - Kickoff Session
 Location: LVML (HIL H 40.8)
 
 ## Schedule
-12:45-13:00, Greeting & Introduction by Benedikt Kowalewski
+12:45-13:00, Introduction by Professor Christophe Girot
 
-13:00-13:15, Lecture "Digital Design Methods" by Zhao Ma
+13:00-13:20, Lecture "Field Work & Lab Coats" by Ilmar Hurkxkens
 
-13:15-13:30, Semester Site Introduction and Course Information by Benedikt Kowalewski
+13:20-13:40, Lecture "Pointclouds?" by Benedikt Kowalewski
 
-13:45-14:15, Lecture "Introduction to Pointclouds and Laserscanning" by Dennis Häusler
+13:40-14:00, Semester Site Introduction and Course Information
 
-14:15-14:30, Q&A
+14:00-14:30, Tour of the ETH Labs
 
 ## Assignment for week 2
 Please read the following extracts:
@@ -21,4 +21,5 @@ Jillian Walliss and Heike Rahmann, [Landscape Architecture and Digital Technolog
 
 Antoine Picon, [Substance and Structure II: The Digital Culture of Landscape Architecture](http://www.harvarddesignmagazine.org/issues/36/substance-and-structure-ii-the-digital-culture-of-landscape-architecture)
 
-
+## Links
+- [History of the Site](00_History_of_the_Site.md)

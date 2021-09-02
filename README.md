@@ -47,6 +47,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - **Week 11** (xx.xx.22) - 3D Printing
 - **Week 12** (xx.xx.22) - Presentation of Final Results
 
+---
 
 ![TitleImage](/doc/00_DDMI_Perspective_II.jpg)
 

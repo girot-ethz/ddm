@@ -3,8 +3,6 @@
 
 # Digital Design Methods 
 
----
-
 This course covers the essential digital tools for contemporary landscape architects. Contents include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs. 
 
 The first semester introduces methods for site mapping like terrestrial laser scanning and photogrammetry, analysis and data processing software like Autodesk ReCap and CloudCompare as well as modelling and fabrication tools such as Rhinoceros 3D, Grasshopper for Rhino and RhinoCam. 

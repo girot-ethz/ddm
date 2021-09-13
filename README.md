@@ -7,7 +7,7 @@ This course covers the essential digital tools for contemporary landscape archit
 
 The first semester introduces methods for site mapping like terrestrial laser scanning and photogrammetry, analysis and data processing software like Autodesk ReCap and CloudCompare as well as modelling and fabrication tools such as Rhinoceros 3D, Grasshopper for Rhino and RhinoCam. 
 
-The second semester focuses on the integration of Sensing and GIS tools into a topographical three-dimensional modelling workflow.
+The second semester focuses on the integration of sensing and GIS tools into a topographical three-dimensional modelling workflow.
 
 The third semester aims at integrating the tools and methods into a studio design.
 

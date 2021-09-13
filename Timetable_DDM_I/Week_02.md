@@ -1,6 +1,7 @@
 # Week 02
 
 04.10.21 - Terrestrial Laser Scanning
+
 Location: Meeting in the LVML (HIL H 40.8) & Scanning on site
 
 ## Schedule

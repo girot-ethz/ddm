@@ -1,6 +1,7 @@
 # Week 08
 
 15.11.21 - Rhinoceros3D - Advanced Modeling
+
 Location: LVML (HIL H 40.8)
 
 ## Schedule

@@ -1,6 +1,7 @@
 # Week 09
 
 22.11.21 - Rhinoceros3D - Grasshopper
+
 Location: LVML (HIL H 40.8)
 
 Tutorial: [Rhino Grasshopper](https://girot-ethz.github.io/ddm-I/08_Grasshopper.html)

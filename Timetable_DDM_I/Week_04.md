@@ -1,6 +1,7 @@
 # Week 04
 
 18.10.21 - ReCAP & Cloudcompare
+
 Location: LVML (HIL H 40.8)
 
 ## Schedule

@@ -1,6 +1,7 @@
 # Week 11
 
 06.12.21 - Milling
+
 Location: Meeting in the Raplab - HIL B-floor
 
 Milling Booklet: [Rhino Cam](https://girot-ethz.github.io/ddm-I/text/201123_RhinoCam.pdf)

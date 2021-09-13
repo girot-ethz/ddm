@@ -1,6 +1,7 @@
 # Week 01
 
 27.09.21 - Kickoff Session
+
 Location: LVML (HIL H 40.8)
 
 ## Schedule

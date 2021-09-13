@@ -1,6 +1,7 @@
 # Week 06
 
 01.11.21 - CloudCompare
+
 Location: LVML (HIL H 40.8)
 
 ## Schedule

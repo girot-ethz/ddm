@@ -1,6 +1,7 @@
 # Week 03
 
 11.10.21 - Photogrammetry
+
 Location: LVML (HIL H 40.8)
 
 ## Schedule

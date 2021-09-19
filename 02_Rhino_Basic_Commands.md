@@ -1,3 +1,8 @@
+# Getting Started
+
+- [Basic Commands](#basic-rhino-commands)
+- [AutoCAD Alias](#autocad-alias-import)
+
 ## Basic Rhino Commands
 
 
@@ -64,3 +69,21 @@
 | Extend | Lengthen a curve |
 | Offset | Copy a curve parallel to the original |
 | Project | Project curves/points on a construction plane / surface |
+
+
+
+# AutoCAD Alias Import
+
+If you're an expert of AutoCAD, there's a way to import AutoCAD Aliases into Rhino. You can then use the keyboard shortcuts to speed up your modeling process.
+
+Steps:
+
+1. Download the alias file here: [autocad-alias](./doc/AutoCAD_alias_for_Rhino.txt)
+
+2. Select from Menu: Tools->Options->Aliases:
+
+   ![Aliases Import Window](./doc/Rhino_17_AutoCAD_Alias.png)
+
+3. Click "Import" and load the downloaded file.
+
+4. Confirm with any warning of "overwritten the current aliases".

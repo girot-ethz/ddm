@@ -18,7 +18,7 @@
 
 First of all. The Help tool in Rhino is very well done and very complete. Dont't hesitate to use it.
 
-![01_Capture1.PNG](./doc/Rhino_01_Capture1.PNG)
+![01_Capture.png](./doc/Rhino_01_Capture.png)
 
 
 
@@ -56,7 +56,7 @@ Each viewport has its own construction plane and grid that the cursor normally m
 
 
 
-![Detail Switching the Panels](./doc/Rhino_04_Change_Viewports.PNG)
+![Detail Switching the Panels](./doc/Rhino_04_Change_Viewports.png)
 
 
 >Rightclick on the viewport title to:

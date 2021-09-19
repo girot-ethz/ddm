@@ -16,7 +16,7 @@
 
 
 
-First of all. The Help tool in Rhino is very well done and very complete. Dont't hesitate to use it.
+First of all. The Help tool (you can also press `F1`) in Rhino is very well done and very complete. Don't hesitate to use it.
 
 ![01_Capture.png](./doc/Rhino_01_Capture.png)
 

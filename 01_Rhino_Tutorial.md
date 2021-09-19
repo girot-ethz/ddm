@@ -122,7 +122,7 @@ Mouse Navigation
 >You can view your model in a variety of wireframe, shaded and rendered methods that depend >on your needs.
 
 
-![Mouse Navigation](./doc/Rhino_10_Changing_Viewportprotection.PNG)
+![Mouse Navigation](./doc/Rhino_10_Changing_Viewportprotection.png)
 
 
 >The perspective viewport projection can be parallel, three-point perspective, or two-point perspective. The viewport projection is set in Viewport Properties. When no object is selected, the Properties panel shows viewport properties.

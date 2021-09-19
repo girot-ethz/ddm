@@ -18,7 +18,7 @@
 
 First of all. The Help tool in Rhino is very well done and very complete. Dont't hesitate to use it.
 
-![01_Capture1.PNG](/doc/Rhino_01_Capture1.PNG)
+![01_Capture1.PNG](./doc/Rhino_01_Capture1.PNG)
 
 
 
@@ -28,7 +28,7 @@ First of all. The Help tool in Rhino is very well done and very complete. Dont't
 
 Modeling in 3‑D is the process of creating a mathematical representation of an object’s surfaces. The resulting model is displayed on your screen as a two-dimensional image. Rhino provides tools for creating, displaying, and manipulating these surfaces.
 
-![02_Viewport_Overview.png](/doc/Rhino_02_Viewport_Overview.png)
+![02_Viewport_Overview.png](./doc/Rhino_02_Viewport_Overview.png)
 
 >
 >1. Viewport (Display different views within the graphics area)
@@ -44,7 +44,7 @@ Modeling in 3‑D is the process of creating a mathematical representation of an
 ## Viewports
 
 
-![Viewport_Toggle](/doc/Rhino_03_Viewport_Toggle.png)
+![Viewport_Toggle](./doc/Rhino_03_Viewport_Toggle.png)
 
 
 >You can reset the viewport by clicking the “Viewport Toggle" icon
@@ -56,7 +56,7 @@ Each viewport has its own construction plane and grid that the cursor normally m
 
 
 
-![Detail Switching the Panels](/doc/Rhino_04_Change_Viewports.PNG)
+![Detail Switching the Panels](./doc/Rhino_04_Change_Viewports.PNG)
 
 
 >Rightclick on the viewport title to:
@@ -73,7 +73,7 @@ Each viewport has its own construction plane and grid that the cursor normally m
 
 ## Navigation
 
-![Marked Navigation Tool Bar](/doc/Rhino_05_Navigation.png)
+![Marked Navigation Tool Bar](./doc/Rhino_05_Navigation.png)
 
 
 >There are several types of navigation tools, which you can find in the toolbar above
@@ -85,7 +85,7 @@ Rhino’s easy view navigation helps you visualize your model. You can look at y
 
 Mouse Navigation
 
-![Mouse Navigation](/doc/Rhino_06_Navigation_Zoom_In.png)
+![Mouse Navigation](./doc/Rhino_06_Navigation_Zoom_In.png)
 
 
 >1. Pan - In viewports with parallel projections (for example: Top, Front, and Right), drag with the right mouse button. In perspective viewports, hold the Shift key, and drag with the right mouse button.
@@ -94,7 +94,7 @@ Mouse Navigation
 
 
 
-![Mouse Navigation](/doc/Rhino_07_Navigation_Zoom_In_Extended.png)
+![Mouse Navigation](./doc/Rhino_07_Navigation_Zoom_In_Extended.png)
 
 
 >1. Zoom Extents - Zooms the view to show all objects currently visible.
@@ -110,20 +110,19 @@ Mouse Navigation
 ## Display Modes
 
 
-![Mouse Navigation](/doc/Rhino_08_Display_Mode_Toolbar.png)
+![Mouse Navigation](./doc/Rhino_08_Display_Mode_Toolbar.png)
 
 
 >You can either change the display mode by toggling the icon above or rightclick the >viewport title.
 
-
-![Mouse Navigation](/doc/Rhino_09_Changing_Displaymode.png)
-![Mouse Navigation](/doc/Rhino_11_Display_Modes.png)
+![Mouse Navigation](./doc/Rhino_09_Changing_Displaymode.png)
+![Mouse Navigation](./doc/Rhino_11_Display_Modes.png)
 
 
 >You can view your model in a variety of wireframe, shaded and rendered methods that depend >on your needs.
 
 
-![Mouse Navigation](/doc/Rhino_10_Changing_Viewportprotection.PNG)
+![Mouse Navigation](./doc/Rhino_10_Changing_Viewportprotection.PNG)
 
 
 >The perspective viewport projection can be parallel, three-point perspective, or two-point perspective. The viewport projection is set in Viewport Properties. When no object is selected, the Properties panel shows viewport properties.
@@ -133,13 +132,13 @@ Mouse Navigation
 
 ## Units
 
-![Mouse Navigation](/doc/Rhino_12_Acess_Units.png)
+![Mouse Navigation](./doc/Rhino_12_Acess_Units.png)
 
 
 >You can access the units properties through the File Menu (File > Properties > Units)
 
 
-![Mouse Navigation](/doc/Rhino_13_Document_Properties.PNG)
+![Mouse Navigation](./doc/Rhino_13_Document_Properties.PNG)
 
 
 >As soon as Rhino is launched, you are prompted to choose the units of the model you will be working in. For general landscape modelling we recommend to choose "Meters", for CNC Milling the unti of choice should be "Millimeters".
@@ -150,7 +149,7 @@ Mouse Navigation
 
 ## Basic Modeling
 
-![Mouse Navigation](/doc/Rhino_14_Commandbar.png)
+![Mouse Navigation](./doc/Rhino_14_Commandbar.png)
 
 
 >Rhino is a command-driven program. In other words, all actions are activated by named commands.
@@ -160,7 +159,7 @@ Toolbars contain graphical icons for initiating commands. Many toolbar icons hav
 
 
 
-![Mouse Navigation](/doc/Rhino_15_Lines.png)
+![Mouse Navigation](./doc/Rhino_15_Lines.png)
 
 
 >1. Point(s) - Point objects mark a single point in 3‑D space. They are the simplest objects in Rhino.
@@ -172,7 +171,7 @@ Toolbars contain graphical icons for initiating commands. Many toolbar icons hav
 *Tips: You can **just start typing**, there is no need to press on the command prompt. To confirm the command you can press spacebar or enter or right-click
 You can also **repeat the last command** by press either spacebar, enter or rightclick (on viewport). **To Cancel** stuff, just press ESC*
 
-![Mouse Navigation](/doc/Rhino_16_Extended_Options.png)
+![Mouse Navigation](./doc/Rhino_16_Extended_Options.png)
 
 
 >Many commands provide secondary options to allow additional options. By clicking on the (Vertical=No) option it will change to “YES”, allowing you to move your objects only in Z-Axis. These secondary options are also often accessible through the flying toolbar.
@@ -183,38 +182,38 @@ You can also **repeat the last command** by press either spacebar, enter or righ
 
 ## Status Bar
 
-![Mouse Navigation](/doc/Rhino_17_Snap_Options.png)
-![Mouse Navigation](/doc/Rhino_18_Snap_Options_2.png)
+![Mouse Navigation](./doc/Rhino_17_Snap_Options.png)
+![Mouse Navigation](./doc/Rhino_18_Snap_Options_2.png)
 
 ##### Object Snap (OSNAP)
 
-![Mouse Navigation](/doc/Rhino_19_Snap_Options_3.png)
+![Mouse Navigation](./doc/Rhino_19_Snap_Options_3.png)
 
 
 >1.  Osnap
-    The object snaps constrain the marker to an exact location on an object such as the end of a line or the center of a circle.
+      The object snaps constrain the marker to an exact location on an object such as the end of a line or the center of a circle.
 >2.  End
-    Snap to the end of a curve, line etc.
+      Snap to the end of a curve, line etc.
 >3.  Near
-    Snap onto a curve near the cursor location.
+      Snap onto a curve near the cursor location.
 >4.  Point
-    Snap to a point object or a control point of a line or curve.
+      Snap to a point object or a control point of a line or curve.
 >5.  Mid
-    Snap to the midpoint of a curve, line, polyline segment etc.
+      Snap to the midpoint of a curve, line, polyline segment etc.
 >6.  Cen
-    Snap to the center of a circle, box etc.
+      Snap to the center of a circle, box etc.
 >7.  Int
-    Snap to the intersection or projected intesection of curves, lines, edges etc.
+      Snap to the intersection or projected intesection of curves, lines, edges etc.
 >8.  Perp
-    Snap perpendicular to a curve.
+      Snap perpendicular to a curve.
 >9.  Tan
-    Snap tangent to a curve.
+      Snap tangent to a curve.
 >10. Quad
-    Snap to the point on a curve that is at the max. x or y point relative to the current construction plan.
+      Snap to the point on a curve that is at the max. x or y point relative to the current construction plan.
 >11. Knot
-    Snap to a knot on a curve or surface.
+      Snap to a knot on a curve or surface.
 >12. Vertex
-    Snap to a mesh vertex. Your only option to snap on a mesh object.
+      Snap to a mesh vertex. Your only option to snap on a mesh object.
 
 
 
@@ -222,7 +221,7 @@ You can also **repeat the last command** by press either spacebar, enter or righ
 
 ##### Other Options
 
-![Mouse Navigation](/doc/Rhino_20_Other_Options.png)
+![Mouse Navigation](./doc/Rhino_20_Other_Options.png)
 
 
 >1. Grid Snap
@@ -248,7 +247,7 @@ You can also **repeat the last command** by press either spacebar, enter or righ
 
 ## Layers
 
-![Mouse Navigation](/doc/Rhino_21_Acess_Layer.png)
+![Mouse Navigation](./doc/Rhino_21_Acess_Layer.png)
 
 
 >You can access the Layer functions through the Edit Menu (Edit > Layers > Edit Layers) or >from the Tool Bar.
@@ -258,7 +257,7 @@ You can also **repeat the last command** by press either spacebar, enter or righ
 
 Layers are a way of grouping objects and applying certain characteristics to all objects that have that layer assignment. Layer states include a layer name, the color used to display the objects, and the visibility and the possibility to lock/unlock all the objects on a layer. Objects are always created on the current layer indicated by the little tick. Only one layer can be active at a time. Objects may also be copied or moved to other layers later. Objects on layers that are off are not visible in the model. Objects on locked layers cannot be selected but can be snapped to.
 
-![Mouse Navigation](/doc/Rhino_22_Layer_Settings.png)
+![Mouse Navigation](./doc/Rhino_22_Layer_Settings.png)
 
 
 >1. New Layer
@@ -281,7 +280,7 @@ Layers are a way of grouping objects and applying certain characteristics to all
 
 ## Layouts
 
-![Mouse Navigation](/doc/Rhino_23_Acess_Layouts.png)
+![Mouse Navigation](./doc/Rhino_23_Acess_Layouts.png)
 
 
 >Use a layout to arrange the model for the printer. (View > Layout > New Layout)
@@ -296,7 +295,7 @@ To add a new layout to your rhino file either do:
 Properties
 By selecting “New Layout” a window pops up to define certain layout properties. These can be changed afterwards again.
 
-![Mouse Navigation](/doc/Rhino_24_Set_Scale.png)
+![Mouse Navigation](./doc/Rhino_24_Set_Scale.png)
 
 
 >Set scale

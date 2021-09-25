@@ -32,7 +32,7 @@
 
 ## Environment
 
-![Image_01_Environment](/doc/Cloudcompare_01_Environment.png)
+![Image_01_Environment](./doc/Cloudcompare_01_Environment.png)
 
 
 >1. DB Tree:            

@@ -1,6 +1,4 @@
 
-
-
 # ReCAP Tutorial
 ReCAP is a program by Autodesk to import raw 3D poincloud scans from certain supported laser scanning devices, e.g. FARO laser scanners. It can also be used for Photogrammetry; the creation of pointcloud from a seelction of photographs. This tutorial will guide you through the importing of raw scans as well as simple pointcloud modifications. For the Photogrammetry tutorial please refer to ReCAP Photogrammetry.
 
@@ -202,4 +200,4 @@ When you have registered all scans/projects you get back to the project overview
   > - .pts, .pcg, .rcp, .rcs: Formats proprietary to Autodesk; not recommended if you use programs outside of the Autodesk software family (like CloudCompare).
   > - after exporting make sure if all desired information is preserved in the exported file. Some formats do not support storing RGB or intensity data.
 
-  ---
+---

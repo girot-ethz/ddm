@@ -1,8 +1,5 @@
 # MultiCam Tutorial
 
-
----
-
 ## Content
 *Jump to the topic you are looking for*
 

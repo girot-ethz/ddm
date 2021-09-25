@@ -2,7 +2,7 @@
 
 Photogrammetry is the science and technology of obtaining reliable information about physical objects and the environment through the process of recording, measuring and interpreting photographic images and patterns of electromagnetic radiant imagery and other phenomena [wikipedia]. This tutorial will cover the basic steps of obtaining a Digital Terrian Model (DTM) from orthographic images aquired by a consumer quadcopter (without ground control points). 
 
-![Photogrammetry_PS_00.jpg](/doc/Photogrammetry_PS_00.jpg)
+![Photogrammetry_PS_00.jpg](./doc/Photogrammetry_PS_00.jpg)
 
 #### Getting Started
 
@@ -46,10 +46,11 @@ We will aquire the images using a consumer quadcopter and the Pix4D Capture App.
 
 There are many apps that can do waypoint-missions for DJI (or other) drones like [Pix4D Capture](https://www.pix4d.com/product/pix4dcapture), [DroneDeploy](https://www.dronedeploy.com/), [QGroundControl](http://qgroundcontrol.com/), [Litchi](https://flylitchi.com/), etc. Be aware that not all drones are supported, and check  compatibility before borrowing or buying a drone for aerial surveys. We will use Pix4D to capture the images.
 
-![Photogrammetry_Pix4D_01.jpg](/doc/Photogrammetry_Pix4D_01.jpg)
+![Photogrammetry_Pix4D_01.jpg](./doc/Photogrammetry_Pix4D_01.jpg)
+
 > - Once you open the app Pix4DCapture on your Android or Apple device, choose *Double Grid Mission* for best results.
 
-![Photogrammetry_Pix4D_02.jpg](/doc/Photogrammetry_Pix4D_02.jpg)
+![Photogrammetry_Pix4D_02.jpg](./doc/Photogrammetry_Pix4D_02.jpg)
 > - You can now select the area you want to survey, and press start to lauch the mission.
 
 Please take note of the following points:
@@ -67,7 +68,7 @@ The processing of the images will be done using Agisoft Photoscan Professional (
 
 Once you have your images on your local drive, open Agisoft Photoscan Professional and create a new project.
 
-![Photogrammetry_PS_01.jpg](/doc/Photogrammetry_PS_01.jpg)
+![Photogrammetry_PS_01.jpg](./doc/Photogrammetry_PS_01.jpg)
 
 > - Save your project on a local drive
 
@@ -75,7 +76,7 @@ Once you have your images on your local drive, open Agisoft Photoscan Profession
 
 ### Add the images
 
-![Photogrammetry_PS_02.jpg](/doc/Photogrammetry_PS_02.jpg)
+![Photogrammetry_PS_02.jpg](./doc/Photogrammetry_PS_02.jpg)
 
 > - Go to the menu item **> Workflow** and click **> Add Photos**
 
@@ -83,7 +84,7 @@ Once you have your images on your local drive, open Agisoft Photoscan Profession
 
 ### Align the images
 
-![Photogrammetry_PS_04.jpg](/doc/Photogrammetry_PS_04.jpg)
+![Photogrammetry_PS_04.jpg](./doc/Photogrammetry_PS_04.jpg)
 
 > - Go to the menu item **> Workflow** and click **> Align Photos**
 > - Use a low accuracy to start, this process can take a long time...
@@ -91,26 +92,26 @@ Once you have your images on your local drive, open Agisoft Photoscan Profession
 
 At this stage PhotoScan finds matching points between overlapping images, estimates camera position for each photo and builds sparse point cloud model. You should now have a preview of the 3D model in low resolution, with the position and direction of the photos:
 
-![Photogrammetry_PS_05.jpg](/doc/Photogrammetry_PS_05.jpg)
+![Photogrammetry_PS_05.jpg](./doc/Photogrammetry_PS_05.jpg)
 
 ---
 
 ### Build a dense cloud
 
-![Photogrammetry_PS_06.jpg](/doc/Photogrammetry_PS_06.jpg)
+![Photogrammetry_PS_06.jpg](./doc/Photogrammetry_PS_06.jpg)
 
 > - Go to the menu item **> Workflow** and click **> Build Dense Cloud**
 > - Use a low quality to start, this process can take a long time...
 
 Based on the estimated camera positions the program calculates depth information for each camera to be combined into a single dense point cloud. You should now have the full resulution of the point cloud:
 
-![Photogrammetry_PS_07.jpg](/doc/Photogrammetry_PS_07.jpg)
+![Photogrammetry_PS_07.jpg](./doc/Photogrammetry_PS_07.jpg)
 
 ---
 
 ### Classify ground points
 
-![Photogrammetry_PS_13.jpg](/doc/Photogrammetry_PS_13.jpg)
+![Photogrammetry_PS_13.jpg](./doc/Photogrammetry_PS_13.jpg)
 
 > - Go to the menu item **> Tools > Dense Cloud > Classify Ground Points**
 > - From: Any Class
@@ -121,13 +122,13 @@ Based on the estimated camera positions the program calculates depth information
 
 To create a Digital Terrain Model in the next step, this step differentiates ground-points from other elements (like trees, buildings, etc). You can view the classified points by clicking on the menu bar icon "Dense Cloud Classes": 
 
-![Photogrammetry_PS_19.jpg](/doc/Photogrammetry_PS_19.jpg)
+![Photogrammetry_PS_19.jpg](./doc/Photogrammetry_PS_19.jpg)
 
 ---
 
 ### Build a Digital Terrain Model
 
-![Photogrammetry_PS_15.jpg](/doc/Photogrammetry_PS_15.jpg)
+![Photogrammetry_PS_15.jpg](./doc/Photogrammetry_PS_15.jpg)
 
 > - Go to the menu item **> Workflow** and click **> Build DEM**
 > - Coordinate System: CH1903/LV03
@@ -137,13 +138,13 @@ To create a Digital Terrain Model in the next step, this step differentiates gro
 
 You can view the Digital Elevation Model by double-clicking on the DEM-layer in the Workspace Pane:
 
-![Photogrammetry_PS_20.jpg](/doc/Photogrammetry_PS_20.jpg)
+![Photogrammetry_PS_20.jpg](./doc/Photogrammetry_PS_20.jpg)
 
 ---
 
 ### Build an Orthophoto
 
-![Photogrammetry_PS_16.jpg](/doc/Photogrammetry_PS_16.jpg)
+![Photogrammetry_PS_16.jpg](./doc/Photogrammetry_PS_16.jpg)
 
 > - Go to the menu item **> Workflow** and click **> Build Orthomosaic**
 > - Coordinate System: CH1903/LV03
@@ -153,7 +154,7 @@ You can view the Digital Elevation Model by double-clicking on the DEM-layer in 
 
 Note: If you are not happy with the result, try building a mesh surface first, and then re-build the orthophoto from the mesh instead of the DEM. You can view the Orthophoto by double-clicking on the Orthomasaic-layer in the Workspace Pane:
 
-![Photogrammetry_PS_21.jpg](/doc/Photogrammetry_PS_21.jpg)
+![Photogrammetry_PS_21.jpg](./doc/Photogrammetry_PS_21.jpg)
 
 ---
 
@@ -163,7 +164,7 @@ Please note: Because we have not registered the images with ground control point
 
 ### Export a full point cloud
 
-![Photogrammetry_PS_12.jpg](/doc/Photogrammetry_PS_12.jpg)
+![Photogrammetry_PS_12.jpg](./doc/Photogrammetry_PS_12.jpg)
 
 > - Go to the menu item **> File** and click **> Export Points**
 > - Select *ASTM E57 (*.e57)* as export format. 
@@ -177,7 +178,7 @@ Please note: Because we have not registered the images with ground control point
 
 ### Export ground points only
 
-![Photogrammetry_PS_14.jpg](/doc/Photogrammetry_PS_14.jpg)
+![Photogrammetry_PS_14.jpg](./doc/Photogrammetry_PS_14.jpg)
 
 > - Go to the menu item **> File** and click **> Export Points**
 > - Select *ASTM E57 (*.e57)* as export format. 
@@ -191,7 +192,7 @@ Please note: Because we have not registered the images with ground control point
 
 ### Export the Digital Terrain Model
 
-![Photogrammetry_PS_17.jpg](/doc/Photogrammetry_PS_17.jpg)
+![Photogrammetry_PS_17.jpg](./doc/Photogrammetry_PS_17.jpg)
 
 > - Go to the menu item **> File > Export DEM >** and click **Export TIFF/BIL/XYZ** 
 > - Projection: CH1903/LV03
@@ -202,7 +203,7 @@ Please note: Because we have not registered the images with ground control point
 
 ### Export the Orthophoto
 
-![Photogrammetry_PS_18.jpg](/doc/Photogrammetry_PS_18.jpg)
+![Photogrammetry_PS_18.jpg](./doc/Photogrammetry_PS_18.jpg)
 
 > - Go to the menu item **> File > Export Orthomosiac >** and click **Export JPEG/TIFF/PNG** 
 > - Projection: CH1903/LV03

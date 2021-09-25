@@ -2,7 +2,7 @@
 
 For designers who are exploring new shapes using generative algorithms, Grasshopper® is a graphical algorithm editor tightly integrated with Rhino’s 3-D modeling tools. Unlike RhinoScript, Grasshopper requires no knowledge of programming or scripting, but still allows designers to build form generators from the simple to the awe-inspiring. Grasshopper is included in Rhino 6.
 
-![Grasshopper_0_header.jpg](/doc/Grasshopper_0_header.jpg)
+![Grasshopper_0_header.jpg](./doc/Grasshopper_0_header.jpg)
 
 #### Getting Started
 

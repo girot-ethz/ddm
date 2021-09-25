@@ -1,8 +1,6 @@
 # Basic Modelling
 
-
-
-*getting started*
+## Content
 
 - [Rhino 6 Interface](#rhino-6-interface)
 - [Viewports](#viewports)

@@ -1,5 +1,5 @@
 
-![TitleImage](/doc/00_DDMI_Perspective_I.JPG)
+![TitleImage](./doc/00_DDMI_Perspective_I.jpg)
 
 # Digital Design Methods 
 
@@ -47,7 +47,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ---
 
-![TitleImage](/doc/00_DDMI_Perspective_II.jpg)
+![TitleImage](./doc/00_DDMI_Perspective_II.jpg)
 
 
 ##### Quicklinks
@@ -56,7 +56,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 <!-- [History of the Site](00_History_of_the_Site.md) -->
 - [Rhino Basics](01_Rhino_Tutorial.md)
 - [Rhino Basic Commands](02_Rhino_Basic_Commands.md)
-- [Cloudcompare Basics](03_Cloudcompare_Tutorial.md)
+- [CloudCompare Basics](03_Cloudcompare_Tutorial.md)
 - [ReCAP Pointcloud](04_ReCAP_Tutorial.md)
 - [Photogrammetry](05_Photogrammetry.md)
 - [MultiCam Tutorial](09_MultiCam_Tutorial.md)
@@ -68,9 +68,10 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ---
 
-![TitleImageII](/doc/00_DDMI_Perspective_III.jpg)
+![TitleImageII](./doc/00_DDMI_Perspective_III.jpg)
 
 > Authors
 > * [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
+> * [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Professor Teresa Galí-Izard / ETH Zurich
 > * Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
 > * Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz

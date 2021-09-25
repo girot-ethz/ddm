@@ -19,18 +19,18 @@
 
 ## RhinoCam Workflow
 
-![RhinoCam_Workflow](/doc/RhinoCam_Workflow.png)
+![RhinoCam_Workflow](./doc/RhinoCam_Workflow.png)
 
 ---
 
 ## Setup
 
-![RhinoCam_Setup_1](/doc/RhinoCam_Setup_1.png)
+![RhinoCam_Setup_1](./doc/RhinoCam_Setup_1.png)
 
 >##### Setup Document:
 >1. Verify Units: go to Options > Units: make sure the document-units are set to millimeters When you create a new document: select Small Objects - Millimeters
 
-![RhinoCam_Setup_2](/doc/RhinoCam_Setup_2.png)
+![RhinoCam_Setup_2](./doc/RhinoCam_Setup_2.png)
 
 >##### Locate Geometry:
 >
@@ -45,15 +45,15 @@
 >
 >6. define the top-lower-left corner = (0,0,0)
 
-![RhinoCam_Setup_3](/doc/RhinoCam_Setup_3.png)
+![RhinoCam_Setup_3](./doc/RhinoCam_Setup_3.png)
 
-![RhinoCam_Setup_4](/doc/RhinoCam_Setup_4.png)
+![RhinoCam_Setup_4](./doc/RhinoCam_Setup_4.png)
 
 ---
 
 ## Tools
 
-![RhinoCam_Tools_1](/doc/RhinoCam_Tools_1.png)
+![RhinoCam_Tools_1](./doc/RhinoCam_Tools_1.png)
 
 >7. go to the Cutting Tools Browser > if it‘s not yet visible, select the menu RhinoCAM > Cutting Tools Browser
 >
@@ -65,7 +65,7 @@
 >
 >12. select the tool you want to use (we will start with the 12 mm Flatnose)
 
-![RhinoCam_Tools_2](/doc/RhinoCam_Tools_2.png)
+![RhinoCam_Tools_2](./doc/RhinoCam_Tools_2.png)
 
 >Different results with different tools and same stepsize:  
 left: 6mm ballnose tool   
@@ -81,7 +81,7 @@ for fast milling, select big diameters
 for fine details, select small diameters
 ```
 
-![RhinoCam_Tools_3](/doc/RhinoCam_Tools_3.png)
+![RhinoCam_Tools_3](./doc/RhinoCam_Tools_3.png)
 
 >A) houses stand too close to each other  
 >B) large tool (12mm) doesn‘t fit inbetween > a lot of rest material  
@@ -94,7 +94,7 @@ for fine details, select small diameters
 
 >Machining Operations are different strategies to generate toolpaths - three dimensional lines in space as paths for the milling bit.
 
-![RhinoCam_Machining_1](/doc/RhinoCam_Machining_1.png)
+![RhinoCam_Machining_1](./doc/RhinoCam_Machining_1.png)
 
 >12. switch to the Create tab
 >
@@ -113,9 +113,9 @@ e) in the Cut Levels tab under Stepdown Control put % Tool Diameter to 100%-200%
 >
 >19. configure visibility using these buttons:
 
-![RhinoCam_Machining_2](/doc/RhinoCam_Machining_2.png)
+![RhinoCam_Machining_2](./doc/RhinoCam_Machining_2.png)
 
-![RhinoCam_Machining_3](/doc/RhinoCam_Machining_3.png)
+![RhinoCam_Machining_3](./doc/RhinoCam_Machining_3.png)
 
 >A) Part visibility    
 >B) Stock visibility    
@@ -126,7 +126,7 @@ e) in the Cut Levels tab under Stepdown Control put % Tool Diameter to 100%-200%
 >G) Holder visibility    
 >H) Machine Tool Visibility    
 
-![RhinoCam_Machining_4](/doc/RhinoCam_Machining_4.png)
+![RhinoCam_Machining_4](./doc/RhinoCam_Machining_4.png)
 
 >18. switch back to the Create tab
 >
@@ -142,7 +142,7 @@ d) don‘t forget to set your tools in the tool tab
 >
 >27. click Generate again and Simulate the operation > you can create as many machining operations as you like until you are satisfied with the result.
 
-![RhinoCam_Machining_5](/doc/RhinoCam_Machining_5.png)
+![RhinoCam_Machining_5](./doc/RhinoCam_Machining_5.png)
 
 >The most helpful Milling Operation Are „Horizontal Roughing“, Parallel Finishing“, „Curve Machining“ and „Engraving“. But you can also experiment with „Pocketing“ or „Between 2 Curves Machining“ and other operations.
 
@@ -150,13 +150,13 @@ d) don‘t forget to set your tools in the tool tab
 
 ## Regions and Curves
 
-![RhinoCam_Regions_1](/doc/RhinoCam_Regions_1.png)
+![RhinoCam_Regions_1](./doc/RhinoCam_Regions_1.png)
 
 >Closed curves can be selected as so called Regions - either before the Machining Method is chosen or under the Features/Regions tab by clicking Select Curves as Regions.    
 These curves then act as boundary to limit the toolpath to the specific area.
 Curves can also be nested (islands).
 
-![RhinoCam_Regions_2](/doc/RhinoCam_Regions_2.png)
+![RhinoCam_Regions_2](./doc/RhinoCam_Regions_2.png)
 
 >Engrave a road
 >
@@ -172,7 +172,7 @@ Curves can also be nested (islands).
 >
 >6. RhinoCAM automatically projects the curve onto all visible geometry and runs the tool along the rail
 
-![RhinoCam_Regions_3](/doc/RhinoCam_Regions_3.png)
+![RhinoCam_Regions_3](./doc/RhinoCam_Regions_3.png)
 
 >boarder of a river...
 >1. select two 2D curves (both open or both closed)
@@ -180,23 +180,23 @@ Curves can also be nested (islands).
 >3. click Generate
 >6. RhinoCAM creates not parallel toolpath-lines but lines that „blend“ curves into one another. Stepsize is smaller where the curves are closer and bigger where they are more distant > the resulting pattern integrates well in the landscape if for example the two borders of a river are selected...
 
-![RhinoCam_Regions_4](/doc/RhinoCam_Regions_4.png)
+![RhinoCam_Regions_4](./doc/RhinoCam_Regions_4.png)
 
-![RhinoCam_Regions_5](/doc/RhinoCam_Regions_5.png)
+![RhinoCam_Regions_5](./doc/RhinoCam_Regions_5.png)
 
 >To mill the inner area (red), select the white bounding curve
 
-![RhinoCam_Regions_6](/doc/RhinoCam_Regions_6.png)
+![RhinoCam_Regions_6](./doc/RhinoCam_Regions_6.png)
 
 >To mill the outer area (red), select the white AND yellow bounding curve
 
-![RhinoCam_Regions_7](/doc/RhinoCam_Regions_7.png)
+![RhinoCam_Regions_7](./doc/RhinoCam_Regions_7.png)
 
 ---
 
 ## Post Processing
 
-![RhinoCam_Post_Processing_1](/doc/RhinoCam_Post_Processing_1.png)
+![RhinoCam_Post_Processing_1](./doc/RhinoCam_Post_Processing_1.png)
 
 >23. post the individual jobs to separate files. right-click on the machining operation you want to post and click [Post]
 >
@@ -206,4 +206,4 @@ Curves can also be nested (islands).
 >
 >32. put your G-Code on a USB stick and bring it down to the RapLab
 
-![RhinoCam_Post_Processing_2](/doc/RhinoCam_Post_Processing_2.png)
+![RhinoCam_Post_Processing_2](./doc/RhinoCam_Post_Processing_2.png)

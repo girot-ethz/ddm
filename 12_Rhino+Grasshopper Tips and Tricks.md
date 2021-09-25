@@ -17,7 +17,7 @@ Steps:
 
 2. Select from Menu: Tools->Options->Aliases:
 
-   ![Aliases Import Window](C:\Users\xarthur\source\repos\ddm\doc\Rhino_17_AutoCAD_Alias.png)
+   ![Aliases Import Window](.\doc\Rhino_17_AutoCAD_Alias.png)
 
 3. Click "Import" and load the downloaded file.
 

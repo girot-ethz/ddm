@@ -74,5 +74,6 @@ The third semester aims at integrating the tools and methods into a studio desig
 > Authors
 > * [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
 > * [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Professor Teresa Galí-Izard / ETH Zurich
+> * [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
 > * Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
 > * Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz

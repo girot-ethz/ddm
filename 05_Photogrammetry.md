@@ -92,7 +92,7 @@ Once you have your images on your local drive, open Agisoft Photoscan Profession
 
 At this stage PhotoScan finds matching points between overlapping images, estimates camera position for each photo and builds sparse point cloud model. You should now have a preview of the 3D model in low resolution, with the position and direction of the photos:
 
-![Photogrammetry_PS_05.jpg](./doc/Photogrammetry_PS_05.jpg)
+![Photogrammetry_PS_05.png](./doc/Photogrammetry_PS_05.png)
 
 ---
 
@@ -105,7 +105,7 @@ At this stage PhotoScan finds matching points between overlapping images, estima
 
 Based on the estimated camera positions the program calculates depth information for each camera to be combined into a single dense point cloud. You should now have the full resulution of the point cloud:
 
-![Photogrammetry_PS_07.jpg](./doc/Photogrammetry_PS_07.jpg)
+![Photogrammetry_PS_07.png](./doc/Photogrammetry_PS_07.png)
 
 ---
 
@@ -122,7 +122,7 @@ Based on the estimated camera positions the program calculates depth information
 
 To create a Digital Terrain Model in the next step, this step differentiates ground-points from other elements (like trees, buildings, etc). You can view the classified points by clicking on the menu bar icon "Dense Cloud Classes": 
 
-![Photogrammetry_PS_19.jpg](./doc/Photogrammetry_PS_19.jpg)
+![Photogrammetry_PS_19.png](./doc/Photogrammetry_PS_19.png)
 
 ---
 
@@ -137,9 +137,14 @@ To create a Digital Terrain Model in the next step, this step differentiates gro
 > - Point classes: Ground
 
 You can view the Digital Elevation Model by double-clicking on the DEM-layer in the Workspace Pane:
+:
+Digital Surface Model including trees, buildings etc.:
 
-![Photogrammetry_PS_20.jpg](./doc/Photogrammetry_PS_20.jpg)
+![Photogrammetry_PS_20.png](./doc/Photogrammetry_PS_20.png)
 
+Only Ground Points:
+
+![Photogrammetry_PS_22.png](./doc/Photogrammetry_PS_22.png)
 ---
 
 ### Build an Orthophoto
@@ -154,7 +159,7 @@ You can view the Digital Elevation Model by double-clicking on the DEM-layer in 
 
 Note: If you are not happy with the result, try building a mesh surface first, and then re-build the orthophoto from the mesh instead of the DEM. You can view the Orthophoto by double-clicking on the Orthomasaic-layer in the Workspace Pane:
 
-![Photogrammetry_PS_21.jpg](./doc/Photogrammetry_PS_21.jpg)
+![Photogrammetry_PS_21.png](./doc/Photogrammetry_PS_21.png)
 
 ---
 

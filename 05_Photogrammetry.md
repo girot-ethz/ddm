@@ -137,7 +137,7 @@ To create a Digital Terrain Model in the next step, this step differentiates gro
 > - Point classes: Ground
 
 You can view the Digital Elevation Model by double-clicking on the DEM-layer in the Workspace Pane:
-:
+
 Digital Surface Model including trees, buildings etc.:
 
 ![Photogrammetry_PS_20.png](./doc/Photogrammetry_PS_20.png)

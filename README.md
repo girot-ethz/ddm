@@ -17,7 +17,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 - [**Week 01** (27.09.21) - Kickoff Session](Timetable_DDM_I/Week_01.md)
 - [**Week 02** (04.10.21) - Terrestrial Laser Scanning](Timetable_DDM_I/Week_02.md)
-- [**Week 03** (11.10.21) - Droning and Photogrammetry](Timetable_DDM_I/Week_03.md)
+- [**Week 03** (11.10.21) - UAVs and Photogrammetry](Timetable_DDM_I/Week_03.md)
 - [**Week 04** (18.10.21) - Autodesk Recap and CloudCompare](Timetable_DDM_I/Week_04.md)
 - **Week 05** (25.10.21) - Seminarweek
 - [**Week 06** (01.11.21) - CloudCompare](Timetable_DDM_I/Week_06.md)

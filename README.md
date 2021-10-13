@@ -54,7 +54,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 - [How to Connect to the Server](06_Serveracesstutorial.md)
 <!-- [History of the Site](00_History_of_the_Site.md) -->
-- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.mdtest)
+- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.md)
 - [Rhino Basics](01_Rhino_Tutorial.md)
 - [Rhino Basic Commands](02_Rhino_Basic_Commands.md)
 - [CloudCompare Basics](03_Cloudcompare_Tutorial.md)

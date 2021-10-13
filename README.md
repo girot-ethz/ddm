@@ -1,11 +1,11 @@
 
 ![TitleImage](./doc/00_DDMI_Perspective_I.jpg)
 
-# Digital Design Methods 
+# Digital Design Methods
 
-This course covers the essential digital tools for contemporary landscape architects. Contents include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs. 
+This course covers the essential digital tools for contemporary landscape architects. Contents include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs.
 
-The first semester introduces methods for site mapping like terrestrial laser scanning and photogrammetry, analysis and data processing software like Autodesk ReCap and CloudCompare as well as modelling and fabrication tools such as Rhinoceros 3D, Grasshopper for Rhino and RhinoCam. 
+The first semester introduces methods for site mapping like terrestrial laser scanning and photogrammetry, analysis and data processing software like Autodesk ReCap and CloudCompare as well as modelling and fabrication tools such as Rhinoceros 3D, Grasshopper for Rhino and RhinoCam.
 
 The second semester focuses on the integration of sensing and GIS tools into a topographical three-dimensional modelling workflow.
 
@@ -54,6 +54,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 - [How to Connect to the Server](06_Serveracesstutorial.md)
 <!-- [History of the Site](00_History_of_the_Site.md) -->
+- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.mdtest)
 - [Rhino Basics](01_Rhino_Tutorial.md)
 - [Rhino Basic Commands](02_Rhino_Basic_Commands.md)
 - [CloudCompare Basics](03_Cloudcompare_Tutorial.md)

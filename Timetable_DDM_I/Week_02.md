@@ -4,7 +4,7 @@
 
 Location: Meeting in the LVML (HIL H 40.8) & Scanning on site
 
-- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.mdtest)
+Overview: [Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.mdtest)
 
 ## Schedule
 12:45-13:30, Workshop ReCAP Scan Registration & Export by Dennis Häusler & Matthias Vollmer

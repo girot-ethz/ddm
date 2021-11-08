@@ -230,3 +230,12 @@ untouched in most cases.
 ![3D_Printing_17_Infill.png](doc/3D_Printing_17_Infill.png)
 
 > Infillsettings. 20-30% is enoguh in most cases. A denser infill pattern only increases print time. (Source: 3deee.ch)
+
+*Layer/Layer thickness*
+
+Defines the height of each layer. It corresponds to the nozzle diameter and isn’t freely adjustable. (See nozzle diameter). You can also increase or decrease the number of layers on the top/bottom and the walls. A minimum is two layers. Less will
+result in ghosting or poor surface quality due to too less material or support. The layer quantity increases the model strength more than the infill!
+
+![3D_Printing_18_Layerheight.png](doc/3D_Printing_18_Layerheight.png)
+
+> The layerheight influence the amount of details that can be reproduced as well as the print time (Source: b3d-online.com)

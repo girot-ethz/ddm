@@ -15,7 +15,7 @@ This Tutorial is divided in three main topics:
 
 ### Theorie
 
-- [FDM Printing](#FDM-Printing-(Fused-Deposition-Modeling))
+- [FDM Printing](#FDM-Printing-Fused-Deposition-Modeling)
 - [SLA Printing](#SLA-Stereolithography-Printing)
 - [SLS Printing](#SLS-Selective-Laser-Sintering-Printing)
 - [Available Printers at RAPLAB](#Available-Printers-at-RAPLAB)
@@ -267,7 +267,7 @@ Always have a look at the preview to check if the support is at the right places
 ### How to print
 
 - [Printing with the Cetus 3D](#Cetus-3D)
-- [Printing with the Raise 3D](#Raise 3D)
+- [Printing with the Raise 3D](#Raise-3D)
 
 
 *File-Preperation*

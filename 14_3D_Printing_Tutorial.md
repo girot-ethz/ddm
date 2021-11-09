@@ -4,10 +4,10 @@
 
 This Tutorial is divided in three main topics:
 
-- [Theorie]()
-- [Basic Knowledge for FDM]()
-- [How to print]()
-- [Troubleshooting]()
+- [Theorie](#theorie)
+- [Basic Knowledge for FDM](#basic-knowledge-for-FDM)
+- [How to print](#How-to-print)
+- [Troubleshooting](#Troubleshooting)
 
 ---
 
@@ -239,3 +239,155 @@ result in ghosting or poor surface quality due to too less material or support. 
 ![3D_Printing_18_Layerheight.png](doc/3D_Printing_18_Layerheight.png)
 
 > The layerheight influence the amount of details that can be reproduced as well as the print time (Source: b3d-online.com)
+
+
+*Preview*
+
+Always have a look at the preview to check if the support is at the right places or to check how the infill was created.
+
+![3D_Printing_12_Slicing_Software.png](doc/3D_Printing_12_Slicing_Software.png)
+
+> This example shows that there is support generated around the boat although it isn't needed. There was a wrong option checkd in the slicing software. (Source: Chair of Christophe Girot)
+
+
+---
+
+### How to print
+
+*File-Preperation*
+
+Your file is key to a good print. Always prepare your model seperatly for 3d printing unless it is already a model for 3d printing from the web. Often it is necessary to remodel your design for the 3d print to get the best result. There are some basic parameters that should always be checkd:
+
+- Is your model a closed volume? or in other words, is it waterthight? Only if every surface is connected to another it is possible to print.
+- Is the thinnest point on your model at least once the nozzle size?
+
+If both is yes you can export your model as an **.stl file** (stereolithography file). This is the most common CAD file and is supported by the most 3d modeling program like rhino or fusion.
+
+*Slicing*
+
+The next step is to import your .stl file to the slicing software and generate a gcode. The G-Code is basicly the manual for the printer on how to print your model. It tells it where to move and how much filament it should extrude and so on.
+
+The two FDM printers at the Raplab uses different slicing software.
+
+##### Cetus 3D
+
+![3D_Printing_02_FDM_Printer.png](doc/3D_Printing_02_FDM_Printer.png)
+
+> (Source: raplab.arch.ethz.ch)
+
+
+The following Tutorial as well as some more tips can also be found at: https://raplab.arch.ethz.ch/cetus-3d-printer/
+
+This printers uses the Slicing Software Tiertime and the computer is right next to the printers. After unlocking the machines with your ETH card and start the machine by holding turning the triggerswitch to ON. The printer then boots up and start to calibrate itself.
+
+
+![3D_Printing_21_Howtoprint.png](doc/3D_Printing_21_Howtoprint.png)
+
+>Open the Tiertime Software on the computer and click on UP in the menu on the left side. (Source: raplab.arch.ethz.ch)
+
+![3D_Printing_22_Howtoprint.png](doc/3D_Printing_22_Howtoprint.png)
+
+>Import the file by clicking on the big “plus” symbol on the left menubar. In the Submenu choos “add Model” (left icon). After the import you should see your model in the virtual printspace in the middle of the screen. (Source: raplab.arch.ethz.ch)
+
+![3D_Printing_23_Howtoprint.png](doc/3D_Printing_23_Howtoprint.png)
+
+>Then you go to the next menu underneath the “plus”symbol to choos your print settings. You can extend your options by clicking on the arrows in the top right corner (5)
+>
+>Layer thickness of 0.2 is fine in most cases (1)
+Infill between 15-20% is also fine for non structural models (2)
+Quality on normal (3)
+Choos if you need support or not (4)
+And check “easy to peel” (6)
+>
+>The Top and Bottom option can be left untouched unless you want to get a stronger model
+>
+>You can also move/scale/rotate your model with the wheel menu on the top right corner of the program (7)
+>
+>Always preview your print by clicking on “Preview” (8)
+>
+>(Source: raplab.arch.ethz.ch)
+
+
+![3D_Printing_24_Howtoprint.png](doc/3D_Printing_24_Howtoprint.png)
+
+>Check the print sequence (1), the print time (2)
+>
+>If everything is fine, start your print with “print” (3)
+>
+>You should check the progress of your print from time to time espacialy the first few layers are crucial for a good print. If the first layer looks uneven or does not stick to the printbed stop the print. And contact the Raplab Staff
+>(Source: raplab.arch.ethz.ch)
+
+
+##### Raise 3D
+
+
+![3D_Printing_08_Raise3D_Printer.png](doc/3D_Printing_08_Raise3D_Printer.png)
+
+>(Source: raplab.arch.ethz.ch)
+
+The following Tutorial as well as some more tips can also be found at:
+https://raplab.arch.ethz.ch/raise-3d/
+
+The bigger printer use Ideamkaer. Other then the Tiertime software you can download it to your own computer and generate your g-code there. Because you need a own USB stick to transfer it to the printer.
+The Process is very similar to the smaller printer.
+
+![3D_Printing_25_Howtoprint.png](doc/3D_Printing_25_Howtoprint.png)
+
+> Open Ideamaker on the computer at the Raplab or your own one. Import the .stl file with the button in the top. (Source: raplab.arch.ethz.ch)
+
+![3D_Printing_26_Howtoprint.png](doc/3D_Printing_26_Howtoprint.png)
+
+> You can rotate/move/scale your model (1) as well. Befor you start the slicing (2). (Source: raplab.arch.ethz.ch)
+
+![3D_Printing_27_Howtoprint.png](doc/3D_Printing_27_Howtoprint.png)
+
+> In the following menu choose the printer in the drop-down list. (1) “Ahonen – Raise3D, Kasai – Raise3D Pro2”. Then Choose the printer settings (2). And start slicing (3).
+
+![3D_Printing_28_Howtoprint.png](doc/3D_Printing_28_Howtoprint.png)
+
+> Check the Print time (1) and preview the slicing (2). (Source: raplab.arch.ethz.ch)
+
+![3D_Printing_29_Howtoprint.png](doc/3D_Printing_29_Howtoprint.png)
+
+>With the slider in the bottom you can simulate the print time layer for layer(1). If everything is fine save the g-code to your usb stick (2).
+
+Then go to the printer and unlock it with your ETH Card. Connect the usb stick to the printer and go to “file” in the menu. Choose your file and start the print.
+
+
+
+---
+
+### Troubleshooting
+
+Following are some of the most common Printer problems:
+
+- The Print loses friction, and the print fails
+
+This is often the case if the print bed isn’t calibrated well. It should have a consistent
+distance to the nozzle. Contact the RapLab-Team and they will calibrate the printer for you
+in this is the case. If you print with a heated bed, you can increase the bed temperature,
+which helps the filament to stick to the bed. Sometimes cleaning the bed or adhesive spray
+helps as well. Contact the Raplab team before applying any adhesive to the printing bed.
+
+
+- Warping
+
+The Edges lift from the ground. This is often the case when you try to print large surfaces
+and the temperature difference between top and bottom layer of the filament is too big.
+Increase the bed temperature or the printer cooling. Using a “Brim” support in the slicing
+software or rotating the model might help as well.
+
+![3D_Printing_19_Warping.png](doc/3D_Printing_19_Warping.png)
+
+> The Edge lifted off the print bed due to a too high temperature difference from the already printed part to the newest layser. In worst case the print loses friction and fails completly. (Source: Ultimaker.com)
+
+
+- Ghosting (Visible Support Structure)
+
+To fill the volume, the slicer creates inner walls as a support for a more rigid volume. If the
+outer walls are too thin, the inner support walls become visible. Lower the print speed or
+increase the wall count of the outer wall to fix this problem.
+
+![3D_Printing_20_Ghosting.png](doc/3D_Printing_20_Ghosting.png)
+
+> The visible waves on the surface are infill walls that shine trough the too thine outer wall. (Source:Youtube.com/MakersMuse)

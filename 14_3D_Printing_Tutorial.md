@@ -5,7 +5,7 @@
 This Tutorial is divided in three main topics:
 
 - [Theorie](#theorie)
-- [Basic Knowledge for FDM](#basic-knowledge-for-FDM)
+- [3D Printing Basic Knowledge for FDM](#3D-Printing-Basic-Knowledge-for-FDM)
 - [How to print](#How-to-print)
 - [Troubleshooting](#Troubleshooting)
 

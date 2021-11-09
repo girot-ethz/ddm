@@ -9,9 +9,16 @@ This Tutorial is divided in three main topics:
 - [How to print](#How-to-print)
 - [Troubleshooting](#Troubleshooting)
 
+
+
 ---
 
 ### Theorie
+
+- [FDM Printing](#FDM-Printing-(Fused-Deposition-Modeling))
+- [SLA Printing](#SLA-Stereolithography-Printing)
+- [SLS Printing](#SLS-Selective-Laser-Sintering-Printing)
+- [Available Printers at RAPLAB](#Available-Printers-at-RAPLAB)
 
 3D Printer are machines for an Additive Manufacturing process and add material instead of
 removing it like a milling machine (CNC). There are a lot of different printing technologies
@@ -123,6 +130,11 @@ PhD students. After printing, you must wash the print with isopropanol and fix i
 ---
 
 ### 3D Printing Basic Knowledge for FDM
+
+- [Physical influence](#Physical-influence)
+- [Software Influence](#Software-Influence)
+
+
 
 ##### Physical influence
 
@@ -253,6 +265,10 @@ Always have a look at the preview to check if the support is at the right places
 ---
 
 ### How to print
+
+- [Printing with the Cetus 3D](#Cetus-3D)
+- [Printing with the Raise 3D](#Raise 3D)
+
 
 *File-Preperation*
 

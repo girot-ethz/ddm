@@ -2,7 +2,7 @@
 
 ## Content
 
-This Tutorial is divided in three main topics:
+This Tutorial is divided in four main topics:
 
 - [Theorie](#theorie)
 - [3D Printing Basic Knowledge for FDM](#3D-Printing-Basic-Knowledge-for-FDM)
@@ -37,17 +37,17 @@ developed over time. In the following, we will look at the three most popular te
 This is the most popular as well as the easiest and cheapest solution to an additive
 manufacturing process. FDM Printing use a filament out of plastic. The most popular
 filaments in the consumer market are ABS ( Acrylnitril-Butadien-Styrol) and PLA (Polylactic
-Acid). The printer head heats the inserted material up distributes it in three axes. By
+Acid). The printer head heats the inserted material up and distributes it in three axes. By
 extruding layer by layer, it reproduces the given 3d model.
 As already mentioned, it is relatively cheap and easy to print with this method. On the other
 hand, this method works with a visible layer structure, and you need to print support
 structure for overhangs above 45 degrees.
-Both procesess will need post-process work to get a result with a smooth surface.
+Both processes will need post-process work to get a result with a smooth surface.
 Possibilities include sandpaper, filler etc. The final model can also be (spray-) painted.
 
 ![3D_Printing_03_FDM_Model.png](doc/3D_Printing_03_FDM_Model.png)
 
-> A typical result from a FDM printer. The layerstrucutre is visible and overhangs up to 45 degrees can be printed without support structure (Source: prusa3d.com)
+> A typical result from a FDM printer. The layer strucutre is visible and overhangs up to 45 degrees can be printed without support structure (Source: prusa3d.com)
 
 
 ##### SLA (Stereolithography) Printing
@@ -68,7 +68,7 @@ structures are also needed for SLA printing.
 
 ![3D_Printing_05_SLA_Model.png](doc/3D_Printing_05_SLA_Model.png)
 
-> The result of an SLA printer has a much higher resolution than a fdm printer. The corners are sharper and the layerstructure is barley visible. (Source: 3dprinterbank.com)
+> The result of an SLA printer has a much higher resolution than a fdm printer. The corners are sharper and the layer structure is barley visible. (Source: 3dprinterbank.com)
 
 
 ##### SLS (Selective Laser Sintering) Printing
@@ -79,14 +79,14 @@ structures are also needed for SLA printing.
 > View on a print bed of a SLS printer. the white powder volume is a finished model. In a next step you blow the loose powder out to get to your printed model. (Source: sinterit.com)
 
 The print bed is filled with a thin layer of powder. A CO2 laser melts layer by layer. The layers
-are visible but covered by the not melted powder which work as a bridge and allows printing
+are not visible because they are covered by the not melted powder which work as a bridge and allows printing
 without any support structure. As soon as the print is finished, you blow the loose powder
 out of the print and your finished model appears. From all the technologies mentioned, this
 one is far the most expensive.
 
 ![3D_Printing_07_SLS_Model.png](doc/3D_Printing_07_SLS_Model.png)
 
-> The prints of a SLS printer have a extreme high resolution. Need no Support structure and have no visible layerstructures. (Source: youtube.com/philipps3ddruck)
+> The prints of a SLS printer have a extreme high resolution. Need no Support structure and have no visible layer structures. (Source: youtube.com/philipps3ddruck)
 
 ##### Available Printers at RAPLAB
 
@@ -125,7 +125,7 @@ preparation differs from the Cetus printer.
 > Source (Source: raplab.arch.ethz.ch)
 
 This is an SLA printer, loaded with white resin. Currently, this printer is only available for
-PhD students. After printing, you must wash the print with isopropanol and fix it with UVlight.
+PhD students. After printing, you must wash the print with isopropanol and fix it with UV-light.
 
 ---
 
@@ -144,7 +144,7 @@ The filament defines the nozzle temperature. Which is basically the temperature 
 print head reaches to melt the filament. Only if the filament is fluid enough, it is printable. A
 little too cold and it does not extrude or has no layer adhesion. Too hot, and it flows too fast
 or blocks the nozzle. The average temperature for PLA is 190-220 °C. A special factor is the
-printing bed. The temperature and the material of it define how (and if) the material sticks
+printing bed. The temperature and the material of it defines how (and if) the material sticks
 onto the build plate. Only if the friction is high enough, the print will be a success.
 
 *Print speed*
@@ -168,7 +168,7 @@ makes the print faster. The downside of that is you lose fine details due to hig
 
 ![3D_Printing_11_Nozzlediameter.png](doc/3D_Printing_11_Nozzlediameter.png)
 
-> The different nozzle diameters and their corresponding layerheight. You can clearly see the influence to the printresolution (amount of details in the print) (Source: youtube.com/The3DPrintGeneral)
+> The different nozzle diameters and their corresponding layer height. You can clearly see the influence to the print resolution (amount of details in the print) (Source: youtube.com/The3DPrintGeneral)
 
 
 
@@ -181,7 +181,7 @@ prints.
 
 ![3D_Printing_12_Slicing_Software.png](doc/3D_Printing_12_Slicing_Software.png)
 
-> Preview of a 3d model in a slicing software (cura). You can see the skirt around the model, the infill, the walls and the supportstructure (Source: Chair of Christophe Girot)
+> Preview of a 3d model in a slicing software (cura). You can see the skirt around the model, the infill, the walls and the support structure (Source: Chair of Christophe Girot)
 
 *Orientation*
 
@@ -207,7 +207,7 @@ the limits of your software's ability to create automatic support structures.
 
 ![3D_Printing_13_Support_Structure.png](doc/3D_Printing_13_Support_Structure.png)
 
-> Complex models with overhangs above 45 degrees need a support structer. Wherever this structer conects the final modelsurface you will see some small spots in the model. (Source: all3dp.com)
+> Complex models with overhangs above 45 degrees need a support structure. Wherever this structure connects the final modelsurface you will see some small spots in the model. (Source: all3dp.com)
 
 *Raft, Skirts and Brims*
 
@@ -222,7 +222,7 @@ warping. (Source: Chair of Christophe Girot)
 ![3D_Printing_15_Skirt.png](doc/3D_Printing_15_Skirt.png)
 
 >**Skirt** – is an outline around the printed area on the first layer. It indicates how well the
-filament gets extruded and how it sticks to the printing bed. Stop the print if you see an
+filament gets extruded and how it sticks to the printing bed. Stop the printing process if you see an
 unclean skirt at the beginning of your print.
 
 ![3D_Printing_16_Brim.png](doc/3D_Printing_16_Brim.png)
@@ -234,14 +234,14 @@ useful if your object has a small footprint. It also helps to keep the corners d
 
 *Infill*
 
-The amount of infill has an impact on the surface quality top surface, amount of filament
+The amount of infill has an impact on the surface quality of the top side, amount of filament
 needed, printing speed, and the strength of the model. An infill of 20 % is usually enough for
 a mechanically non-demanding print. The crisscross pattern is standard and can be let
 untouched in most cases.
 
 ![3D_Printing_17_Infill.png](doc/3D_Printing_17_Infill.png)
 
-> Infillsettings. 20-30% is enoguh in most cases. A denser infill pattern only increases print time. (Source: 3deee.ch)
+> Infill settings. 20-30% is enough in most cases. A denser infill pattern only increases print time. (Source: 3deee.ch)
 
 *Layer/Layer thickness*
 
@@ -250,7 +250,7 @@ result in ghosting or poor surface quality due to too less material or support. 
 
 ![3D_Printing_18_Layerheight.png](doc/3D_Printing_18_Layerheight.png)
 
-> The layerheight influence the amount of details that can be reproduced as well as the print time (Source: b3d-online.com)
+> The layer height influence the amount of details that can be reproduced as well as the print time (Source: b3d-online.com)
 
 
 *Preview*
@@ -259,7 +259,7 @@ Always have a look at the preview to check if the support is at the right places
 
 ![3D_Printing_12_Slicing_Software.png](doc/3D_Printing_12_Slicing_Software.png)
 
-> This example shows that there is support generated around the boat although it isn't needed. There was a wrong option checkd in the slicing software. (Source: Chair of Christophe Girot)
+> This example shows that there is support generated around the boat although, it isn't needed. There has been a wrong option checked in the slicing software. (Source: Chair of Christophe Girot)
 
 
 ---
@@ -272,16 +272,16 @@ Always have a look at the preview to check if the support is at the right places
 
 *File-Preperation*
 
-Your file is key to a good print. Always prepare your model seperatly for 3d printing unless it is already a model for 3d printing from the web. Often it is necessary to remodel your design for the 3d print to get the best result. There are some basic parameters that should always be checkd:
+Your file is key to a good print. Always prepare your model separately for 3d printing unless it is already a model for 3d printing from the web. Often it is necessary to remodel your design for the 3d print to get the best result. There are some basic parameters that should always be checked:
 
-- Is your model a closed volume? or in other words, is it waterthight? Only if every surface is connected to another it is possible to print.
+- Is your model a closed volume? or in other words, is it watertight? Only if every surface is connected to another it is possible to print.
 - Is the thinnest point on your model at least once the nozzle size?
 
 If both is yes you can export your model as an **.stl file** (stereolithography file). This is the most common CAD file and is supported by the most 3d modeling program like rhino or fusion.
 
 *Slicing*
 
-The next step is to import your .stl file to the slicing software and generate a gcode. The G-Code is basicly the manual for the printer on how to print your model. It tells it where to move and how much filament it should extrude and so on.
+The next step is to import your .stl file to the slicing software and generate a G-code. The G-Code is basically the manual for the printer on how to print your model. It tells it where to move and how much filament it should extrude and so on.
 
 The two FDM printers at the Raplab uses different slicing software.
 
@@ -294,7 +294,7 @@ The two FDM printers at the Raplab uses different slicing software.
 
 The following Tutorial as well as some more tips can also be found at: https://raplab.arch.ethz.ch/cetus-3d-printer/
 
-This printers uses the Slicing Software Tiertime and the computer is right next to the printers. After unlocking the machines with your ETH card and start the machine by holding turning the triggerswitch to ON. The printer then boots up and start to calibrate itself.
+This printer uses the Slicing Software Tiertime and the computer is right next to the printers. After unlocking the machines with your ETH card and start the machine by holding, turning the trigger switch to ON. The printer then boots up and start to calibrate itself.
 
 
 ![3D_Printing_21_Howtoprint.png](doc/3D_Printing_21_Howtoprint.png)
@@ -303,19 +303,19 @@ This printers uses the Slicing Software Tiertime and the computer is right next 
 
 ![3D_Printing_22_Howtoprint.png](doc/3D_Printing_22_Howtoprint.png)
 
->Import the file by clicking on the big “plus” symbol on the left menubar. In the Submenu choos “add Model” (left icon). After the import you should see your model in the virtual printspace in the middle of the screen. (Source: raplab.arch.ethz.ch)
+>Import the file by clicking on the big “plus” symbol on the left menu bar. In the Submenu choose “add Model” (left icon). After the import you should see your model in the virtual print space in the middle of the screen. (Source: raplab.arch.ethz.ch)
 
 ![3D_Printing_23_Howtoprint.png](doc/3D_Printing_23_Howtoprint.png)
 
->Then you go to the next menu underneath the “plus”symbol to choos your print settings. You can extend your options by clicking on the arrows in the top right corner (5)
+>Then you go to the next menu underneath the “plus” symbol to choose your print settings. You can extend your options by clicking on the arrows in the top right corner (5)
 >
 >Layer thickness of 0.2 is fine in most cases (1)
 Infill between 15-20% is also fine for non structural models (2)
 Quality on normal (3)
-Choos if you need support or not (4)
+Choose if you need support or not (4)
 And check “easy to peel” (6)
 >
->The Top and Bottom option can be left untouched unless you want to get a stronger model
+>The top and bottom option can be left untouched unless you want to get a stronger model
 >
 >You can also move/scale/rotate your model with the wheel menu on the top right corner of the program (7)
 >
@@ -328,9 +328,9 @@ And check “easy to peel” (6)
 
 >Check the print sequence (1), the print time (2)
 >
->If everything is fine, start your print with “print” (3)
+>If everything is fine, start your print by clicking on “print” (3)
 >
->You should check the progress of your print from time to time espacialy the first few layers are crucial for a good print. If the first layer looks uneven or does not stick to the printbed stop the print. And contact the Raplab Staff
+>You should check the progress of your print from time to time especially the first few layers are crucial for a good print. If the first layer looks uneven or does not stick to the print bed stop the print. And contact the Raplab Staff
 >(Source: raplab.arch.ethz.ch)
 
 
@@ -344,16 +344,16 @@ And check “easy to peel” (6)
 The following Tutorial as well as some more tips can also be found at:
 https://raplab.arch.ethz.ch/raise-3d/
 
-The bigger printer use Ideamkaer. Other then the Tiertime software you can download it to your own computer and generate your g-code there. Because you need a own USB stick to transfer it to the printer.
-The Process is very similar to the smaller printer.
+The bigger printer use Ideamkaer. Other than the Tiertime software you can download it to your own computer and generate your g-code there. Because you need your own USB stick to transfer it to the printer.
+The process is very similar to the smaller printer.
 
 ![3D_Printing_25_Howtoprint.png](doc/3D_Printing_25_Howtoprint.png)
 
-> Open Ideamaker on the computer at the Raplab or your own one. Import the .stl file with the button in the top. (Source: raplab.arch.ethz.ch)
+> Open Ideamaker on the computer at the Raplab or your own one. Import the .stl file with the button on the top. (Source: raplab.arch.ethz.ch)
 
 ![3D_Printing_26_Howtoprint.png](doc/3D_Printing_26_Howtoprint.png)
 
-> You can rotate/move/scale your model (1) as well. Befor you start the slicing (2). (Source: raplab.arch.ethz.ch)
+> You can rotate/move/scale your model (1) as well, before you start the slicing (2). (Source: raplab.arch.ethz.ch)
 
 ![3D_Printing_27_Howtoprint.png](doc/3D_Printing_27_Howtoprint.png)
 
@@ -365,9 +365,9 @@ The Process is very similar to the smaller printer.
 
 ![3D_Printing_29_Howtoprint.png](doc/3D_Printing_29_Howtoprint.png)
 
->With the slider in the bottom you can simulate the print time layer for layer(1). If everything is fine save the g-code to your usb stick (2).
+>With the slider in the bottom, you can simulate the print time layer by layer(1). If everything is fine save the g-code to your USB stick (2).
 
-Then go to the printer and unlock it with your ETH Card. Connect the usb stick to the printer and go to “file” in the menu. Choose your file and start the print.
+Then go to the printer and unlock it with your ETH Card. Connect the USB stick to the printer and go to “file” in the menu. Choose your file and start the print.
 
 
 
@@ -381,9 +381,9 @@ Following are some of the most common Printer problems:
 
 This is often the case if the print bed isn’t calibrated well. It should have a consistent
 distance to the nozzle. Contact the RapLab-Team and they will calibrate the printer for you
-in this is the case. If you print with a heated bed, you can increase the bed temperature,
+if this is the case. If you print with a heated bed, you can increase the bed temperature,
 which helps the filament to stick to the bed. Sometimes cleaning the bed or adhesive spray
-helps as well. Contact the Raplab team before applying any adhesive to the printing bed.
+helps as well. Contact the Raplab team before applying any adhesive spray to the printing bed.
 
 
 - Warping
@@ -395,7 +395,7 @@ software or rotating the model might help as well.
 
 ![3D_Printing_19_Warping.png](doc/3D_Printing_19_Warping.png)
 
-> The Edge lifted off the print bed due to a too high temperature difference from the already printed part to the newest layser. In worst case the print loses friction and fails completly. (Source: Ultimaker.com)
+> The Edge lifted off the print bed due to a too high temperature difference from the already printed part to the newest layer. In worst case the print loses friction and fails completely. (Source: Ultimaker.com)
 
 
 - Ghosting (Visible Support Structure)
@@ -406,4 +406,4 @@ increase the wall count of the outer wall to fix this problem.
 
 ![3D_Printing_20_Ghosting.png](doc/3D_Printing_20_Ghosting.png)
 
-> The visible waves on the surface are infill walls that shine trough the too thine outer wall. (Source:Youtube.com/MakersMuse)
+> The visible waves on the surface are infill walls that shine trough the too thin outer wall. (Source:Youtube.com/MakersMuse)

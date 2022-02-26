@@ -10,5 +10,6 @@ Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 13:00-14:00, Questions and discussion 
 
 ## Links
-[QGIS Software](https://qgis.org/en/site/)
-[QGIS tutorials and tips](http://www.qgistutorials.com/en/)
+- [QGIS Software](https://qgis.org/en/site/)
+
+- [QGIS tutorials and tips](http://www.qgistutorials.com/en/)

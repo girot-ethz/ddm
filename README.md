@@ -38,11 +38,11 @@ The third semester aims at integrating the tools and methods into a studio desig
 - **Week 04** (21.03.22) No Class (Seminarweek)
 - [**Week 05** (28.03.22) Online - Data Analysis and Transformations By James Melsom](Timetable_DDM_II/Week_05.md)
 - [**Week 06** (04.04.22) LVML - Interoperability GIS with Rhino and Docofossor](Timetable_DDM_II/Week_06.md)
-- **Week 07** (11.04.22) Online - Introduction to the Design Challenge
+- [**Week 07** (11.04.22) Online - Introduction to the Design Challenge](Timetable_DDM_II/Week_07.md)
 - **Week 08** (18.04.22) No Class (Easter)
 - **Week 09** (25.04.22) No Class (Sechseläuten) 
 - **Week 10** (02.05.22) LVML - Computational Visualization
-- **Week 11** (09.05.22) Online - Design Challenge Support
+- [**Week 11** (09.05.22) Online - Design Challenge Support](Timetable_DDM_II/Week_11.md)
 - **Week 12** (16.05.22) LVML - Design Challenge Support
 - **Week 13** (23.05.22) LVML - Final Presentation and Discussion
 

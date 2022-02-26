@@ -1,10 +1,12 @@
 # Week 01
 
 28.02.22 - Introduction and text discussion
+
 Location: LVML
 
 ## Schedule
 12:00-13:00, Introduction
+
 13:00-14:00, Text discussion
 
 ## Texts:

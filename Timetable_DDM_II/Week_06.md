@@ -11,4 +11,4 @@ Location: LVML
   
 ## Links
 
-[QGIS - DTM to 3D Topography](https://girot-ethz.github.io/ddm/11_QGIS_Topography.html)
+- [QGIS - DTM to 3D Topography](https://girot-ethz.github.io/ddm/11_QGIS_Topography.html)

@@ -2,7 +2,7 @@
 
 28.03.21 - LECTURE Data Analysis and Transformations by James Melsom
 
-Location: Online Zoom [Link](https://ethz.zoom.us/j/67350077176)
+Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 ## Schedule
 12:00-13:00, Lecture by James Melsom 

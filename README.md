@@ -35,7 +35,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [**Week 01** (28.02.22) LVML - Introduction and text discussion](Timetable_DDM_II/Week_01.md)
 - **Week 02** (07.03.22) LVML - Geopositioning by Benedikt Kowalewski
 - **Week 03** (14.03.22) LVML - Sensing Landscapes by Benedikt Kowalewski
-- **Week 04** (21.03.22) No Class
+- **Week 04** (21.03.22) No Class (Seminarweek)
 - [**Week 05** (28.03.22) Online - Data Analysis and Transformations By James Melsom](Timetable_DDM_II/Week_05.md)
 - [**Week 06** (04.04.22) LVML - Interoperability GIS with Rhino and Docofossor](Timetable_DDM_II/Week_06.md)
 - **Week 07** (11.04.22) Online - Introduction to the Design Challenge

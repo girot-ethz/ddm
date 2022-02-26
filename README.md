@@ -32,7 +32,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ##### Timetable
 
-- **Week 01** (28.02.22) - LVML | Introduction and text discussion
+- [**Week 01** (28.02.22) - LVML | Introduction and text discussion](Timetable_DDM_II/Week_01.md)
 - **Week 02** (07.03.22) - LVML | Geopositioning | by Benedikt Kowalewski
 - **Week 03** (14.03.22) - LVML | Sensing Landscapes | by Benedikt Kowalewski
 - **Week 04** (21.03.22) - No Class

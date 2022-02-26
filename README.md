@@ -66,7 +66,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
 - [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
-- [Rhino+Grasshopper Tips & Tricks](12_Rhino+Grasshopper Tips and Tricks.md)
+- [Rhino Grasshopper Tips & Tricks](12_Rhino_Grasshopper_Tips_and_Tricks.md)
 
 ---
 

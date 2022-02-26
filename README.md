@@ -32,18 +32,19 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ##### Timetable
 
-- **Week 01** (xx.xx.22) - Airborne and Satellite Remote Sensing
-- **Week 02** (xx.xx.22) - Pointcloud Technology in Practice
-- **Week 03** (xx.xx.22) - What is GIS? A Brief Introduction to Geographic Information Systems
-- **Week 04** (xx.xx.22) - Seminarweek (no class)
-- **Week 05** (xx.xx.22) - Data Analysis and Transformations in QGIS
-- **Week 06** (xx.xx.22) - Easter Holidays (no class)
-- **Week 07** (xx.xx.22) - Interoperability of QGIS & Rhinoceros & Docofossor I
-- **Week 08** (xx.xx.22) - Sechseläuten (no class)
-- **Week 09** (xx.xx.22) - Docofossor II & Rhinoceros
-- **Week 10** (xx.xx.22) - Advanced Modelling in Rhinoceros & Introduction to 3D Printing
-- **Week 11** (xx.xx.22) - 3D Printing
-- **Week 12** (xx.xx.22) - Presentation of Final Results
+- **Week 01** (28.02.22) - LVML | Introduction and text discussion
+- **Week 02** (07.03.22) - LVML | Geopositioning | by Benedikt Kowalewski
+- **Week 03** (14.03.22) - LVML | Sensing Landscapes | by Benedikt Kowalewski
+- **Week 04** (21.03.22) - No Class
+- **Week 05** (28.03.22) - Online | Data Analysis and Transformations | By James Melsom
+- **Week 06** (04.04.22) - LVML | From GIS to Rhino & Docofossor
+- **Week 07** (11.04.22) - Online | Introduction to the Design Challenge
+- **Week 08** (18.04.22) - No Class (Easter)
+- **Week 09** (25.04.22) - No Class (Sechseläuten) 
+- **Week 10** (02.05.22) - LVML | Computational Visualization
+- **Week 11** (09.05.22) - Online | Design Challenge Support
+- **Week 12** (16.05.22) - LVML | Design Challenge Support
+- **Week 13** (23.05.22) - LVML | Final Presentation and Discussion
 
 ---
 

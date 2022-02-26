@@ -1,6 +1,6 @@
 # Week 07
 
-04.04.22 - Introduction to the Design Challenge
+11.04.22 - Introduction to the Design Challenge
   
 Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 

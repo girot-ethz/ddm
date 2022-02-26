@@ -2,7 +2,7 @@
 
 16.05.22 - TBA
   
-Location: LVML
+Location: TBA
 
 ## Schedule
 12:00-13:00, TBA

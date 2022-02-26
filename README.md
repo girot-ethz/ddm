@@ -36,8 +36,8 @@ The third semester aims at integrating the tools and methods into a studio desig
 - **Week 02** (07.03.22) LVML - Geopositioning by Benedikt Kowalewski
 - **Week 03** (14.03.22) LVML - Sensing Landscapes by Benedikt Kowalewski
 - **Week 04** (21.03.22) No Class
-- **Week 05** (28.03.22) Online - Data Analysis and Transformations By James Melsom
-- **Week 06** (04.04.22) LVML - From GIS to Rhino & Docofossor
+- [**Week 05** (28.03.22) Online - Data Analysis and Transformations By James Melsom](Timetable_DDM_II/Week_05.md)
+- [**Week 06** (04.04.22) LVML - Interoperability GIS with Rhino and Docofossor](Timetable_DDM_II/Week_06.md)
 - **Week 07** (11.04.22) Online - Introduction to the Design Challenge
 - **Week 08** (18.04.22) No Class (Easter)
 - **Week 09** (25.04.22) No Class (Sechseläuten) 
@@ -65,7 +65,6 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [RhinoCam Tutorial](10_RhinoCam_Tutorial.md)
 - [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
-- [QGIS - Tutorials and Tips](http://www.qgistutorials.com)
 - [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
 - [Rhino+Grasshopper Tips & Tricks](12_Rhino+Grasshopper Tips and Tricks.md)
 

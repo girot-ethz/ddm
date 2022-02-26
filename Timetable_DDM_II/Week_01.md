@@ -8,7 +8,7 @@ Location: LVML
 13:00-14:00, Text discussion
 
 ## Texts:
-Please select one of the following extracts - one per student. We ask you to read the text and prepare questions that we can discuss together for this week.
+Please select one of the following extracts - one per student. We ask you to read the text and prepare questions that we can discuss together in class.
 
 - Walliss, Jillian, and Heike Rahmann. Landscape Architecture and Digital Technologies: *Re-Conceptualising Design and Making*. Abingdon, Oxon; New York: Routledge, 2016.
 [TEXT, Pages 1 - 44](https://girot-ethz.github.io/ddm/text/Topographic_Surface_Walliss_Rahmann_2016_Landscape_architecture_and_digital_technologies.pdf)

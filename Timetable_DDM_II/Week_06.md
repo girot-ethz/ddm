@@ -9,6 +9,6 @@ Location: LVML
 
 13:00-14:00, Input: First introduction to Docofossor, Ilmar Hurkxkens
   
-## Links:  
+## Links
 
 [QGIS - DTM to 3D Topography](https://girot-ethz.github.io/ddm/11_QGIS_Topography.html)

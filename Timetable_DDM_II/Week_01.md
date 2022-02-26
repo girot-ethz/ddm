@@ -1,6 +1,6 @@
 # Week 01
 
-28.02.22 - Introduction and text discussion
+28.02.22 - Introduction by Ilmar Hurkxkens and text discussion 
 
 Location: LVML
 

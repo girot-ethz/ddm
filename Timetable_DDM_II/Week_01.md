@@ -1,25 +1,14 @@
 # Week 01
 
-01.03.21 - Airborne and Satellite Remote Sensing
-Location: Zoom [Link](https://ethz.zoom.us/j/91346097820)
+28.02.22 - Introduction and text discussion
+Location: LVML
 
 ## Schedule
-11:45-11:50, Kickoff 
+12:00-13:00, Introduction
+13:00-14:00, Text discussion
 
-11:50-12:00, History of Remote Sensing
-
-12:00-12:10, Airborne Remote Sensing + Orthophotography
-
-12:10-12:30, Satellite Remote Sensing + GNSS
-
-12:30-12:45, Break
-
-12:45-13:00, Swiss Grid or Schweizer Landeskoordinaten
-
-13:00-13:30, From GNSS to Rhino
-
-## Assignment up until Easter:
-Please select one of the following extracts - one per student. We ask you to summarize the text and to prepare questions that we can discuss together for our session on April 12th.
+## Texts:
+Please select one of the following extracts - one per student. We ask you to read the text and prepare questions that we can discuss together for this week.
 
 - Walliss, Jillian, and Heike Rahmann. Landscape Architecture and Digital Technologies: *Re-Conceptualising Design and Making*. Abingdon, Oxon; New York: Routledge, 2016.
 [TEXT, Pages 1 - 44](https://girot-ethz.github.io/ddm/text/Topographic_Surface_Walliss_Rahmann_2016_Landscape_architecture_and_digital_technologies.pdf)

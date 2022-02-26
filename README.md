@@ -32,19 +32,19 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ##### Timetable
 
-- [**Week 01** (28.02.22) - LVML | Introduction and text discussion](Timetable_DDM_II/Week_01.md)
-- **Week 02** (07.03.22) - LVML | Geopositioning | by Benedikt Kowalewski
-- **Week 03** (14.03.22) - LVML | Sensing Landscapes | by Benedikt Kowalewski
-- **Week 04** (21.03.22) - No Class
-- **Week 05** (28.03.22) - Online | Data Analysis and Transformations | By James Melsom
-- **Week 06** (04.04.22) - LVML | From GIS to Rhino & Docofossor
-- **Week 07** (11.04.22) - Online | Introduction to the Design Challenge
-- **Week 08** (18.04.22) - No Class (Easter)
-- **Week 09** (25.04.22) - No Class (Sechseläuten) 
-- **Week 10** (02.05.22) - LVML | Computational Visualization
-- **Week 11** (09.05.22) - Online | Design Challenge Support
-- **Week 12** (16.05.22) - LVML | Design Challenge Support
-- **Week 13** (23.05.22) - LVML | Final Presentation and Discussion
+- [**Week 01** (28.02.22) LVML - Introduction and text discussion](Timetable_DDM_II/Week_01.md)
+- **Week 02** (07.03.22) LVML - Geopositioning | by Benedikt Kowalewski
+- **Week 03** (14.03.22) LVML - Sensing Landscapes | by Benedikt Kowalewski
+- **Week 04** (21.03.22) No Class
+- **Week 05** (28.03.22) Online - Data Analysis and Transformations | By James Melsom
+- **Week 06** (04.04.22) LVML - From GIS to Rhino & Docofossor
+- **Week 07** (11.04.22) Online - Introduction to the Design Challenge
+- **Week 08** (18.04.22) No Class (Easter)
+- **Week 09** (25.04.22) No Class (Sechseläuten) 
+- **Week 10** (02.05.22) LVML - Computational Visualization
+- **Week 11** (09.05.22) Online - Design Challenge Support
+- **Week 12** (16.05.22) LVML - Design Challenge Support
+- **Week 13** (23.05.22) LVML - Final Presentation and Discussion
 
 ---
 

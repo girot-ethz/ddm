@@ -2,7 +2,7 @@
 
 04.04.22 - Interoperability GIS with Rhino and Docofossor  
   
-Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
+Location: LVML
 
 ## Schedule
 12:00-13:00, Input: From DTM to Pointcloud via QGIS, Ilmar Hurkxkens

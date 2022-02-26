@@ -13,7 +13,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ## Digital Design Methods 1
 
-##### Timetable
+##### Timetable Fall 2021
 
 - [**Week 01** (27.09.21) - Kickoff Session](Timetable_DDM_I/Week_01.md)
 - [**Week 02** (04.10.21) - Terrestrial Laser Scanning](Timetable_DDM_I/Week_02.md)
@@ -30,7 +30,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 ## Digital Design Methods 2
 
-##### Timetable
+##### Timetable Spring 2022
 
 - [**Week 01** (28.02.22) LVML - Introduction and text discussion](Timetable_DDM_II/Week_01.md)
 - **Week 02** (07.03.22) LVML - Geopositioning by Benedikt Kowalewski

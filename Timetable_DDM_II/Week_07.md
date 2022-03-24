@@ -5,8 +5,8 @@
 Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 ## Schedule
-12:00-13:00, Introduction to the Design Challenge
+11:45-12:30, Introduction to the Design Challenge
 
-13:00-14:00, Design development and Support
+12:45-13:30, Design development and Support
 
 

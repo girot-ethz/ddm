@@ -5,9 +5,9 @@
 Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 ## Schedule
-12:00-13:00, Lecture by James Melsom 
+11:45-12:30, Lecture by James Melsom 
 
-13:00-14:00, Questions and discussion 
+12:45-13:30, Questions and discussion 
 
 ## Links
 - [QGIS Software](https://qgis.org/en/site/)

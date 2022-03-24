@@ -5,9 +5,9 @@
 Location: LVML
 
 ## Schedule
-12:00-13:00, Introduction
+11:45-12:30, Introduction
 
-13:00-14:00, Text discussion
+12:45-13:30, Text discussion
 
 ## Task
 Please select one of the following extracts - one per student. We ask you to read the text and prepare questions that we can discuss together in class.

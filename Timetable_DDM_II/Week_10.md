@@ -5,6 +5,6 @@
 Location: LVML
 
 ## Schedule
-12:00-13:00, Introduction to computational vizualization by Ilmar Hurkxkens
+11:45-12:30, Introduction to computational vizualization by Ilmar Hurkxkens
 
-13:00-14:00, Design development and Support
+12:45-13:30, Design development and Support

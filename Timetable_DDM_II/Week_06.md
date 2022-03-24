@@ -5,9 +5,9 @@
 Location: LVML
 
 ## Schedule
-12:00-13:00, Input: From DTM to Pointcloud via QGIS, Ilmar Hurkxkens
+11:45-12:30, Input: From DTM to Pointcloud via QGIS, Ilmar Hurkxkens
 
-13:00-14:00, Input: First introduction to Docofossor, Ilmar Hurkxkens
+12:45-13:30, Input: First introduction to Docofossor, Ilmar Hurkxkens
   
 ## Links
 

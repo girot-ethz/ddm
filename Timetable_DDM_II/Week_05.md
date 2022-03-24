@@ -10,6 +10,12 @@ Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 12:45-13:30, Questions and discussion 
 
 ## Links
+- [LANDSKIP](https://www.landskip.ch/)
+
+- [JMLA](http://jmla.eu/)
+
+- [Profile at University of Technologoy Sydney](https://profiles.uts.edu.au/James.Melsom)
+
 - [QGIS Software](https://qgis.org/en/site/)
 
 - [QGIS tutorials and tips](http://www.qgistutorials.com/en/)

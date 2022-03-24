@@ -5,7 +5,7 @@
 Location: LVML 
 
 ## Schedule
-12:00-13:00, TBA
+11:45-12:30, TBA
 
-13:00-14:00, TBA 
+12:45-13:30, TBA 
 

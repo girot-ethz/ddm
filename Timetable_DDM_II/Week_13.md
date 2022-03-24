@@ -5,4 +5,4 @@
 Location: LVML
 
 ## Schedule
-12:00-14:00, Individual Presentations and Discussion
+11:45-13:30, Individual Presentations and Discussion

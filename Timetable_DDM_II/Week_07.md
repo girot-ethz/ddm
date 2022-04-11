@@ -11,6 +11,10 @@ Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 12:00-12:30, Introduction to the Design Challenge
 
+- Design a surface water runoff structure
+- Connect to existing drainage systems
+- Align a new path network to your new water structure
+
 12:45-13:30, Design development and Support
 
 

@@ -11,9 +11,9 @@ Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 12:00-12:30, Introduction to the Design Challenge
 
-- Design a surface water runoff structure
-- Connect to existing drainage systems
-- Align a new path network to your new water structure
+- Design a surface water runoff structure using the "Oberflächenabfluss" from the Zurich [Gis browser](https://maps.zh.ch/).
+- Connect to existing drainage systems using the Öffentliche Oberflächengewasser"layer from the Zurich Gis Browser.
+- Align a new path network to your new water structure.
 
 12:45-13:30, Design development and Support
 

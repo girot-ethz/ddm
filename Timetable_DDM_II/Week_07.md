@@ -6,7 +6,8 @@ Location: Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
 
 ## Schedule
 11:45-12:00, Follow up Sensing Excercise with Benedikt Kowalewski 
-  (Folder with sample files: \\nas22.ethz.ch\arch_lus_mscla_student\4_FS_22\DDM_II\Output\SensorData_Rome)
+ 
+ (Folder with sample files: \\nas22.ethz.ch\arch_lus_mscla_student\4_FS_22\DDM_II\Output\SensorData_Rome)
 
 12:00-12:30, Introduction to the Design Challenge
 

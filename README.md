@@ -44,7 +44,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [**Week 10** (02.05.22) LVML - Computational Visualization](Timetable_DDM_II/Week_10.md)
 - [**Week 11** (09.05.22) Online - Design Development and Support](Timetable_DDM_II/Week_11.md)
 - [**Week 12** (16.05.22) LVML - Design Development and Support](Timetable_DDM_II/Week_12.md)
-- [**Week 13** (23.05.22) No Class
+- **Week 13** (23.05.22) No Class
 - [**Week 14** (30.05.22) Final Presentation and Discussion](Timetable_DDM_II/Week_14.md)
 
 ---

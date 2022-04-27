@@ -1,10 +1,10 @@
 # Week 12
 
-16.05.22 - TBA
+16.05.22 - Design Development and Support
   
-Location: LVML/Online [Zoom Link](https://ethz.zoom.us/j/67350077176)
+Location: LVML
 
 ## Schedule
-11:45-12:30, TBA
+11:45-12:30, Design Development and Support
 
-12:45-13:30, Design development and Support
+12:45-13:30, Design Development and Support

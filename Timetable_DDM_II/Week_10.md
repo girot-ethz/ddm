@@ -15,4 +15,8 @@ Location: LVML
 
 [Template 700x500 mm](https://www.dropbox.com/t/zYB8rqXpL4cG5pAo)
 
-(links expire by May 9th 2022)
+(files expire by May 9th 2022)
+
+## Links
+
+[Cartographic relief presentation, Eduard Imhof](https://ebookcentral.proquest.com/lib/ethz/detail.action?pq-origsite=primo&docID=3238273)

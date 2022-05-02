@@ -15,6 +15,8 @@ Location: LVML
 
 [Template 700x500 mm](https://www.dropbox.com/t/zYB8rqXpL4cG5pAo)
 
+[ASC file (again)](https://www.dropbox.com/t/vTUQfjfI1eqMY2Q0)
+
 (files expire by May 9th 2022)
 
 ## Links

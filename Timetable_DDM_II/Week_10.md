@@ -13,6 +13,6 @@ Location: LVML
 
 [Shaders](https://www.dropbox.com/t/TbSmDZbBMZMPpaAr)
 
-[Template_A2](https://www.dropbox.com/t/9cTFwPwLRK11UP2l)
+[Template 700x500 mm](https://www.dropbox.com/t/zYB8rqXpL4cG5pAo)
 
 (links expire by May 9th 2022)

@@ -1,6 +1,6 @@
 # Week 14
 
-23.05.22 - Final Presentation
+30.05.22 - Final Presentation
   
 Location: HIL H Foyer
 Media: Hanging Exhibition of Maps & Projector

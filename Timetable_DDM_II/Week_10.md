@@ -17,6 +17,8 @@ Location: LVML
 
 [ASC file (again)](https://www.dropbox.com/t/vTUQfjfI1eqMY2Q0)
 
+[Grasshopper demo file](https://www.dropbox.com/t/QRsbqovqjrRmiphj)
+
 (files expire by May 9th 2022)
 
 ## Links

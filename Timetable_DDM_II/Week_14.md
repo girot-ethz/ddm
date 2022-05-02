@@ -1,15 +1,15 @@
-# Week 14
+# Week 13
 
-30.05.22 - Final Presentation
+25.05.22 - Final Presentation 
   
-Location: HIL H Foyer
+Location: HIL H Foyer, 18:00h - 19:00h
 
 Media: Hanging Exhibition of 7 maps & projector
 
 ## Schedule
-11:45-12:00, Preparation 
+17:45-18:00, Preparation 
 
-12:00-13:00, Presentations and discussion
+18:00-18:45, Presentations and discussion
 
-13:00-13:30, Wrapup
+18:45-19:00, Wrapup
 

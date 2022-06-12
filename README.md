@@ -40,7 +40,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [**Week 06** (04.04.22) LVML - Interoperability GIS with Rhino and Docofossor](Timetable_DDM_II/Week_06.md)
 - [**Week 07** (11.04.22) Online - Introduction to the Design Challenge](Timetable_DDM_II/Week_07.md)
 - **Week 08** (18.04.22) No Class (Easter)
-- **Week 09** (25.04.22) No Class (Sechseläuten) 
+- **Week 09** (25.04.22) No Class (Sechseläuten)
 - [**Week 10** (02.05.22) LVML - Computational Visualization](Timetable_DDM_II/Week_10.md)
 - [**Week 11** (09.05.22) Online - Design Development and Support](Timetable_DDM_II/Week_11.md)
 - [**Week 12** (16.05.22) LVML - Design Development and Support](Timetable_DDM_II/Week_12.md)
@@ -68,6 +68,9 @@ The third semester aims at integrating the tools and methods into a studio desig
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
 - [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
 - [Rhino Grasshopper Tips & Tricks](12_Rhino_Grasshopper_Tips_and_Tricks.md)
+- [VR Instructions](15_VR-Instructions.md)
+- [Rhino to VR Tutorial Loop 1](16_RhinoToVR_Loop.md)
+- [MeshToVR_Loop 2](17_MeshToVR_Loop_II.md)
 
 ---
 

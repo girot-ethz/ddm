@@ -91,9 +91,9 @@ Next we have to create two folders: One for the transformed detail clouds and on
 The content of each folder should be as follows:
 
 >**Detail Cloud Folder**:
-- ExportEAST.las
-- ExportWEST.las
-- ReferenceCloud.las
+>- ExportEAST.las
+>- ExportWEST.las
+>- ReferenceCloud.las
 
 >**Swisstopo Cloud Folder**:
 >

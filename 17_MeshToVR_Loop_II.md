@@ -38,8 +38,8 @@ To visualize the meshes we have to dive a bit into the structure of Unity. So he
 ![MeshtoVR_8_Mesh.png](doc/MeshtoVR_8_Mesh.png)
 
 >1. Game Instance Controls (“Play” button starts and stops the VR instance) **Note: Any changes made within Unity while the VR instance is running will be discarded once the instance stops. So make sure the instance is not running while making changes.**
-2. This area is called “Hierarchy”. This is where Unity displays its game objects.
-3. The “Inspector” allows you to adjust selected game objects.
+>2. This area is called “Hierarchy”. This is where Unity displays its game objects.
+>3. The “Inspector” allows you to adjust selected game objects.
 
 To visualize the meshes we need to first navigate to “meshLoader” in the Hierarchy. Once you have found it klick it and switch over to the Inspector.
 (see 4.1)

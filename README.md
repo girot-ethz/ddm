@@ -24,7 +24,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 - **Week 04** (13.03.23) LVML - Photogrammetrie and UAVs
 - **Week 05** (20.03.23) No Class (Seminarweek)
 - **Week 06** (27.03.23) LVML - CloudCompare & Public Data
-- **Week 07** (03.04.23) LVML - CloudCompare & FMS
+- **Week 07** (03.04.23) LVML - CloudCompare & FME
 - **Week 08** (10.04.23) No Class (Easter)
 - **Week 09** (17.04.23) No Class (Sechseläuten)
 - **Week 10** (24.04.23) LVML - From GIS to Rhinoceros3D

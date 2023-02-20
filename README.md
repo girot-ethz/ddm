@@ -17,9 +17,7 @@ The third semester aims at integrating the tools and methods into a studio desig
 
 - **Week 01** (20.02.23) LVML - Arduino and on site Sensing
 - **Week 02** (27.02.23) LVML - Geopositioning with GNSS
-
 - **Site Visit** (04.03.23) On Site - Sensing Landscapes with LIDAR and Drones (part of Martina Voser's design studio)
-
 - **Week 03** (06.03.23) LVML - LIDAR and Terrestrial Laserscanning
 - **Week 04** (13.03.23) LVML - Photogrammetrie and UAVs
 - **Week 05** (20.03.23) No Class (Seminarweek)

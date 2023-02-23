@@ -18,15 +18,15 @@ The third semester aims at integrating the tools and methods into a studio desig
 - **Week 01** (20.02.23) LVML - Arduino and on site Sensing
 - **Week 02** (27.02.23) LVML - Geopositioning with GNSS
 - **Site Visit** (04.03.23) On Site - Sensing Landscapes with LIDAR and Drones (part of Martina Voser's design studio)
-- **Week 03** (06.03.23) LVML - LIDAR and Terrestrial Laserscanning
-- **Week 04** (13.03.23) LVML - Photogrammetrie and UAVs
+- **Week 03** (06.03.23) LVML - LIDAR and Terrestrial Laserscanning & CloudCompare 
+- **Week 04** (13.03.23) LVML - Photogrammetrie and UAVs & Public Data
 - **Week 05** (20.03.23) No Class (Seminarweek)
-- **Week 06** (27.03.23) LVML - CloudCompare & Public Data
-- **Week 07** (03.04.23) LVML - CloudCompare & FME
+- **Week 06** (27.03.23) LVML - CloudCompare & FME
+- **Week 07** (03.04.23) LVML - From GIS to Rhinoceros3D
 - **Week 08** (10.04.23) No Class (Easter)
 - **Week 09** (17.04.23) No Class (Sechseläuten)
-- **Week 10** (24.04.23) LVML - From GIS to Rhinoceros3D
-- **Week 11** (01.05.23) LVML - Topographic Modelling with Docofossor
+- **Week 10** (24.04.23) LVML - Topographic Modelling with Docofossor
+- **Week 11** (01.05.23) No Class (Labour Day) 
 - **Week 12** (08.05.23) LVML - Final Presentation and Discussion
 
 ---
